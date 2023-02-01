@@ -1,0 +1,3002 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mas Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-07 11:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: mas-addons"
+
+#. 1: Plugin name 2: Elementor
+#: mas-addons-helper.php:182
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: mas-addons-helper.php:206 mas-addons-helper.php:231
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:175
+msgid "$"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:133
+msgid "$29/mo"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:151
+msgid "$290 billed annualy"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:142
+msgid "/ mo"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:139
+#: widgets/dummy-widget/testimonial-carousel.php:144
+msgid "1"
+msgstr ""
+
+#: widgets/testimonial.php:203
+msgid "1 Second"
+msgstr ""
+
+#: widgets/testimonial.php:212
+msgid "10 Second"
+msgstr ""
+
+#: widgets/testimonial.php:213
+msgid "11 Second"
+msgstr ""
+
+#: widgets/testimonial.php:214
+msgid "12 Second"
+msgstr ""
+
+#: widgets/testimonial.php:215
+msgid "13 Second"
+msgstr ""
+
+#: widgets/testimonial.php:216
+msgid "14 Second"
+msgstr ""
+
+#: widgets/testimonial.php:217
+msgid "15 Second"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:221
+msgid "180"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:140
+#: widgets/dummy-widget/testimonial-carousel.php:145
+msgid "2"
+msgstr ""
+
+#: widgets/testimonial.php:204
+msgid "2 Second"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:103
+#, php-format
+msgid "25% off for this month"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:141
+#: widgets/dummy-widget/testimonial-carousel.php:146
+msgid "3"
+msgstr ""
+
+#: widgets/testimonial.php:205
+msgid "3 Second"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:142
+#: widgets/dummy-widget/testimonial-carousel.php:147
+msgid "4"
+msgstr ""
+
+#: widgets/testimonial.php:206
+msgid "4 Second"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:143
+#: widgets/dummy-widget/testimonial-carousel.php:148
+msgid "5"
+msgstr ""
+
+#: widgets/testimonial.php:207
+msgid "5 Second"
+msgstr ""
+
+#: widgets/testimonial.php:208
+msgid "6 Second"
+msgstr ""
+
+#: widgets/testimonial.php:209
+msgid "7 Second"
+msgstr ""
+
+#: widgets/testimonial.php:210
+msgid "8 Second"
+msgstr ""
+
+#: widgets/testimonial.php:211
+msgid "9 Second"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:187
+msgid "99"
+msgstr ""
+
+#: widgets/dummy-widget/newsletter-form.php:94
+msgid "[wpforms id=\"1737\" title=\"false\" description=\"false\"]"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:392
+msgid "Ability Color"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:314
+msgid "Ability Gap"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:140
+msgid "Ability List"
+msgstr ""
+
+#: inc/elmentor-extender.php:349
+msgid "Accordion Item  Gap"
+msgstr ""
+
+#: inc/elmentor-extender.php:366
+msgid "Accordion Item Background Color"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:489
+msgid "Active"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:192
+msgid "Add Button"
+msgstr ""
+
+#: inc/custom-post-types.php:186 inc/custom-post-types.php:281
+#: inc/custom-post-types.php:375
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-post-types.php:101 inc/custom-post-types.php:102
+msgid "Add New Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:63 inc/custom-post-types.php:64
+msgid "Add New Header"
+msgstr ""
+
+#: inc/custom-post-types.php:240 inc/custom-post-types.php:241
+msgid "Add New Member"
+msgstr ""
+
+#: inc/custom-post-types.php:100
+msgctxt "add new on admin bar"
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:62
+msgctxt "add new on admin bar"
+msgid "Header"
+msgstr ""
+
+#: inc/custom-post-types.php:333
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr ""
+
+#: inc/custom-post-types.php:144
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-post-types.php:239
+msgctxt "add new on admin bar"
+msgid "Team Member"
+msgstr ""
+
+#: inc/custom-post-types.php:423
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-post-types.php:334 inc/custom-post-types.php:335
+msgid "Add New Project"
+msgstr ""
+
+#: inc/custom-post-types.php:145 inc/custom-post-types.php:146
+msgid "Add New Service"
+msgstr ""
+
+#: inc/custom-post-types.php:213 inc/custom-post-types.php:307
+#: inc/custom-post-types.php:401
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/custom-post-types.php:424 inc/custom-post-types.php:425
+msgid "Add New Testimonial"
+msgstr ""
+
+#: widgets/heading.php:132
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/custom-post-types.php:99
+msgctxt "admin menu"
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:61
+msgctxt "admin menu"
+msgid "Header"
+msgstr ""
+
+#: inc/custom-post-types.php:332
+msgctxt "admin menu"
+msgid "Project"
+msgstr ""
+
+#: inc/custom-post-types.php:143
+msgctxt "admin menu"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-post-types.php:238
+msgctxt "admin menu"
+msgid "Team Member"
+msgstr ""
+
+#: inc/custom-post-types.php:422
+msgctxt "admin menu"
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/project.php:521 widgets/services.php:303 widgets/btn.php:142
+#: widgets/blog.php:486 widgets/dummy-widget/page-title.php:155
+msgid "After"
+msgstr ""
+
+#: widgets/project.php:532 widgets/logo.php:118 widgets/teams.php:189
+#: widgets/icon-box.php:212 widgets/services.php:314 widgets/btn.php:149
+#: widgets/main-menu.php:122 widgets/blog.php:497
+#: widgets/dummy-widget/testimonial-simple.php:165
+#: widgets/dummy-widget/page-title.php:162
+#: widgets/dummy-widget/cart-count.php:106
+#: widgets/dummy-widget/pricing-box.php:232
+msgid "Align"
+msgstr ""
+
+#: widgets/icon.php:169 widgets/back-to-top.php:144 widgets/heading.php:178
+msgid "Alignment"
+msgstr ""
+
+#: inc/custom-post-types.php:181 inc/custom-post-types.php:276
+#: inc/custom-post-types.php:370
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-types.php:106
+msgid "All Footers"
+msgstr ""
+
+#: inc/custom-post-types.php:68
+msgid "All Headers"
+msgstr ""
+
+#: inc/custom-post-types.php:339
+msgid "All Projects"
+msgstr ""
+
+#: inc/custom-post-types.php:150
+msgid "All Services"
+msgstr ""
+
+#: inc/custom-post-types.php:208 inc/custom-post-types.php:302
+#: inc/custom-post-types.php:396
+msgid "All Tags"
+msgstr ""
+
+#: inc/custom-post-types.php:245
+msgid "All Team Members"
+msgstr ""
+
+#: inc/custom-post-types.php:429
+msgid "All Testimonial"
+msgstr ""
+
+#: widgets/teams.php:167 widgets/dummy-widget/team-loop.php:145
+msgid "Apply Button Text"
+msgstr ""
+
+#: widgets/teams.php:178 widgets/dummy-widget/team-loop.php:156
+msgid "Apply Button Url"
+msgstr ""
+
+#: widgets/teams.php:368 widgets/dummy-widget/team-loop.php:279
+msgid "Apply Content"
+msgstr ""
+
+#: widgets/teams.php:431 widgets/dummy-widget/team-loop.php:342
+msgid "Apply Padding"
+msgstr ""
+
+#: widgets/teams.php:155 widgets/dummy-widget/team-loop.php:133
+msgid "Apply Title"
+msgstr ""
+
+#: widgets/teams.php:386 widgets/dummy-widget/team-loop.php:297
+msgid "Apply Title Color"
+msgstr ""
+
+#: widgets/teams.php:396 widgets/dummy-widget/team-loop.php:307
+msgid "Apply Title Spacing"
+msgstr ""
+
+#: widgets/teams.php:379 widgets/dummy-widget/team-loop.php:290
+msgid "Apply Title typography"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ashraf"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:131
+#: widgets/dummy-widget/doctor-box.php:145
+msgid "Asthma, eczema, food allergies"
+msgstr ""
+
+#: widgets/testimonial.php:174
+msgid "Auto Play?"
+msgstr ""
+
+#: widgets/testimonial.php:198
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:201
+msgid "Availability"
+msgstr ""
+
+#: widgets/contact-form.php:135
+msgid "Background"
+msgstr ""
+
+#: widgets/project.php:1298 widgets/project.php:1395
+#: widgets/contact-form.php:236 widgets/contact-form.php:297
+#: widgets/contact-form.php:327 widgets/post-navigation.php:215
+#: widgets/post-navigation.php:329 widgets/back-to-top.php:214
+#: widgets/back-to-top.php:263 widgets/services.php:794
+#: widgets/services.php:902 widgets/btn.php:427 widgets/btn.php:495
+#: widgets/blog.php:1080 widgets/blog.php:1177
+msgid "Background Color"
+msgstr ""
+
+#: widgets/project.php:520 widgets/services.php:302 widgets/btn.php:141
+#: widgets/blog.php:485 widgets/dummy-widget/page-title.php:154
+msgid "Before"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:209
+msgid "billed monthly"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:243
+msgid "billed Yearly"
+msgstr ""
+
+#: widgets/heading.php:260
+msgid "Blend Mode"
+msgstr ""
+
+#: widgets/project.php:1310 widgets/project.php:1407
+#: widgets/post-navigation.php:227 widgets/post-navigation.php:341
+#: widgets/back-to-top.php:425 widgets/services.php:806
+#: widgets/services.php:914 widgets/btn.php:443 widgets/btn.php:518
+#: widgets/blog.php:1092 widgets/blog.php:1189
+#: widgets/dummy-widget/job-loop.php:294
+#: widgets/dummy-widget/testimonial-simple.php:394
+#: widgets/dummy-widget/page-title.php:282
+#: widgets/dummy-widget/pricing-box.php:455
+#: widgets/dummy-widget/pricing-box.php:568
+#: widgets/dummy-widget/pricing-box.php:719
+msgid "Border"
+msgstr ""
+
+#: widgets/project.php:1327 widgets/project.php:1432
+#: widgets/contact-form.php:166 widgets/contact-form.php:450
+#: widgets/icon.php:397 widgets/teams.php:268 widgets/post-navigation.php:244
+#: widgets/post-navigation.php:359 widgets/back-to-top.php:435
+#: widgets/services.php:823 widgets/services.php:939 widgets/btn.php:360
+#: widgets/btn.php:460 widgets/btn.php:543 widgets/testimonial.php:569
+#: widgets/blog.php:1109 widgets/blog.php:1214
+#: widgets/dummy-widget/product-categories.php:265
+#: widgets/dummy-widget/job-categories.php:240
+#: widgets/dummy-widget/page-title.php:306
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/icon.php:383 widgets/back-to-top.php:410
+msgid "Border Width"
+msgstr ""
+
+#: widgets/testimonial.php:278
+msgid "Bottom"
+msgstr ""
+
+#: widgets/dummy-widget/job-categories.php:111
+#: widgets/dummy-widget/post-loop.php:135
+#: widgets/dummy-widget/service-loop.php:132
+msgid "Bottom Gap"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:321
+#: widgets/dummy-widget/pricing-table.php:589
+msgid "Bottom Info"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:645
+msgid "Bottom Text"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:661
+msgid "Bottom text color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:654
+msgid "Bottom text typography"
+msgstr ""
+
+#: widgets/project.php:1518 widgets/teams.php:445 widgets/icon-box.php:924
+#: widgets/services.php:1025 widgets/blog.php:1300
+#: widgets/dummy-widget/pricing-table.php:616
+#: widgets/dummy-widget/job-loop.php:102 widgets/dummy-widget/job-loop.php:285
+#: widgets/dummy-widget/product-categories.php:247
+#: widgets/dummy-widget/testimonial-simple.php:350
+#: widgets/dummy-widget/job-categories.php:222
+#: widgets/dummy-widget/post-loop.php:324
+#: widgets/dummy-widget/service-loop.php:283
+msgid "Box"
+msgstr ""
+
+#: widgets/project.php:1537 widgets/project.php:1602 widgets/teams.php:464
+#: widgets/teams.php:529 widgets/services.php:1044 widgets/services.php:1109
+#: widgets/blog.php:1319 widgets/blog.php:1384
+msgid "Box Backgroound Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:681
+msgid "Box Background"
+msgstr ""
+
+#: widgets/icon-box.php:931 widgets/dummy-widget/pricing-table.php:624
+#: widgets/dummy-widget/testimonial-simple.php:358
+msgid "Box Background Color"
+msgstr ""
+
+#: widgets/icon-box.php:941 widgets/dummy-widget/job-loop.php:311
+#: widgets/dummy-widget/testimonial-simple.php:369
+#: widgets/dummy-widget/post-loop.php:342
+#: widgets/dummy-widget/service-loop.php:308
+msgid "Box Border Radius"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:366
+msgid "Box height"
+msgstr ""
+
+#: widgets/project.php:1561 widgets/project.php:1627 widgets/teams.php:488
+#: widgets/teams.php:554 widgets/icon-box.php:1005 widgets/services.php:1068
+#: widgets/services.php:1134 widgets/blog.php:1343 widgets/blog.php:1409
+#: widgets/dummy-widget/job-loop.php:303
+#: widgets/dummy-widget/testimonial-simple.php:411
+#: widgets/dummy-widget/post-loop.php:334
+#: widgets/dummy-widget/service-loop.php:293
+msgid "Box Hover Shadow"
+msgstr ""
+
+#: widgets/teams.php:587
+msgid "Box Margin"
+msgstr ""
+
+#: widgets/icon-box.php:126
+msgid "Box Number"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-simple.php:419
+msgid "Box Opacity"
+msgstr ""
+
+#: widgets/project.php:1648 widgets/teams.php:575 widgets/icon-box.php:959
+#: widgets/services.php:1155 widgets/blog.php:1430
+#: widgets/dummy-widget/job-loop.php:323
+#: widgets/dummy-widget/testimonial-simple.php:236
+#: widgets/dummy-widget/testimonial-simple.php:381
+#: widgets/dummy-widget/pricing-box.php:750
+msgid "Box Padding"
+msgstr ""
+
+#: widgets/project.php:1548 widgets/project.php:1614 widgets/teams.php:475
+#: widgets/teams.php:541 widgets/services.php:1055 widgets/services.php:1121
+#: widgets/blog.php:1330 widgets/blog.php:1396
+#: widgets/dummy-widget/pricing-table.php:669
+#: widgets/dummy-widget/pricing-box.php:733
+msgid "Box Radius"
+msgstr ""
+
+#: widgets/icon-box.php:979 widgets/dummy-widget/testimonial-simple.php:403
+#: widgets/dummy-widget/doctor-box.php:405
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:674
+msgid "Box style"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:662
+msgid "box_border"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:314
+msgid "Boxed"
+msgstr ""
+
+#: widgets/project.php:1246 widgets/contact-form.php:464
+#: widgets/icon-box.php:658 widgets/services.php:732 widgets/btn.php:93
+#: widgets/btn.php:382 widgets/blog.php:1028
+#: widgets/dummy-widget/pricing-table.php:534
+#: widgets/dummy-widget/hero-area.php:134
+#: widgets/dummy-widget/pricing-box.php:503
+msgid "Button"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:309
+msgid "Button  Style"
+msgstr ""
+
+#: widgets/dummy-widget/job-list.php:122
+msgid "Button Align"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:476
+#: widgets/dummy-widget/doctor-box.php:507
+msgid "BUtton Background"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:538
+msgid "Button Background"
+msgstr ""
+
+#: widgets/icon-box.php:700 widgets/icon-box.php:819
+#: widgets/dummy-widget/pricing-table.php:561
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/icon-box.php:905
+msgid "Button Border Radius"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:204
+msgid "Button Bottom text"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:465
+#: widgets/dummy-widget/doctor-box.php:496
+msgid "BUtton Color"
+msgstr ""
+
+#: widgets/project.php:1287 widgets/project.php:1384 widgets/icon-box.php:688
+#: widgets/icon-box.php:807 widgets/services.php:783 widgets/services.php:891
+#: widgets/btn.php:412 widgets/btn.php:484 widgets/blog.php:1069
+#: widgets/blog.php:1166 widgets/dummy-widget/pricing-table.php:550
+#: widgets/dummy-widget/pricing-box.php:518
+msgid "Button Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:549
+msgid "Button Hover Background"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:528
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/icon-box.php:179 widgets/dummy-widget/pricing-table.php:272
+#: widgets/dummy-widget/pricing-box.php:213
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/icon-box.php:778 widgets/icon-box.php:855
+msgid "Button Icon Gap"
+msgstr ""
+
+#: widgets/icon-box.php:757
+msgid "Button Icon Size"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:141
+msgid "Button Label"
+msgstr ""
+
+#: widgets/project.php:1504 widgets/icon-box.php:886 widgets/services.php:1011
+#: widgets/btn.php:563 widgets/blog.php:1286
+#: widgets/dummy-widget/pricing-box.php:610
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:627
+msgid "Button Radius"
+msgstr ""
+
+#: widgets/project.php:1319 widgets/project.php:1424
+#: widgets/post-navigation.php:236 widgets/post-navigation.php:351
+#: widgets/services.php:815 widgets/services.php:931 widgets/btn.php:452
+#: widgets/btn.php:535 widgets/blog.php:1101 widgets/blog.php:1206
+msgid "Button Shadow"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:600
+msgid "Button Spacing"
+msgstr ""
+
+#: widgets/icon-box.php:192
+msgid "Button Text"
+msgstr ""
+
+#: widgets/btn.php:113 widgets/dummy-widget/pricing-table.php:286
+#: widgets/dummy-widget/doctor-box.php:165
+#: widgets/dummy-widget/pricing-box.php:196
+msgid "Button text"
+msgstr ""
+
+#: widgets/project.php:1255 widgets/icon-box.php:679 widgets/services.php:741
+#: widgets/blog.php:1037
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:542
+#: widgets/dummy-widget/pricing-box.php:511
+msgid "Button typography"
+msgstr ""
+
+#: widgets/btn.php:122 widgets/dummy-widget/pricing-table.php:298
+#: widgets/dummy-widget/hero-area.php:150
+#: widgets/dummy-widget/doctor-box.php:173
+#: widgets/dummy-widget/pricing-box.php:224
+msgid "Button URL"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:584
+msgid "Button Width"
+msgstr ""
+
+#: widgets/icon-box.php:737
+msgid "Button width"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:197
+msgid "Call Now"
+msgstr ""
+
+#: inc/custom-post-types.php:188 inc/custom-post-types.php:283
+#: inc/custom-post-types.php:377
+msgid "Category"
+msgstr ""
+
+#: widgets/project.php:1086 widgets/project.php:1134 widgets/blog.php:897
+#: widgets/blog.php:945 widgets/dummy-widget/post-loop.php:241
+msgid "Category Color"
+msgstr ""
+
+#: widgets/project.php:1185 widgets/dummy-widget/post-loop.php:214
+msgid "Category Gap"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:111
+#: widgets/dummy-widget/job-categories.php:100
+msgid "Category Limit"
+msgstr ""
+
+#: widgets/project.php:1042 widgets/blog.php:853
+#: widgets/dummy-widget/post-loop.php:234
+msgid "Category Typography"
+msgstr ""
+
+#: widgets/icon.php:177 widgets/back-to-top.php:152 widgets/heading.php:186
+#: inc/elmentor-extender.php:28 inc/elmentor-extender.php:52
+msgid "Center"
+msgstr ""
+
+#: widgets/testimonial.php:247
+msgid "center"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:172
+#: widgets/dummy-widget/testimonial-carousel.php:124
+msgid "CEO of Lapsas"
+msgstr ""
+
+#: widgets/inline-icon-box.php:195
+msgid "Change Icon Color"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:121
+msgid "Choose App Image"
+msgstr ""
+
+#: widgets/icon-box.php:136 widgets/dummy-widget/testimonial-stories.php:115
+#: widgets/dummy-widget/testimonial-simple.php:99
+#: widgets/dummy-widget/testimonial-carousel.php:104
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/icon.php:143 widgets/back-to-top.php:128
+msgid "Circle"
+msgstr ""
+
+#: widgets/dummy-widget/job-search.php:144
+msgid "City"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:413
+msgid "Client testimonial"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:151
+msgid "Colon cancer, hemorrhoids "
+msgstr ""
+
+#: widgets/testimonial.php:689 widgets/testimonial.php:709
+#: widgets/dummy-widget/pricing-table.php:605
+#: widgets/dummy-widget/job-list.php:161
+#: widgets/dummy-widget/product-categories.php:217
+#: widgets/dummy-widget/job-categories.php:192
+#: widgets/dummy-widget/count-down.php:110
+#: widgets/dummy-widget/count-down.php:144
+msgid "Color"
+msgstr ""
+
+#: widgets/teams.php:126 widgets/services.php:154
+msgid "Column Gap"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:108
+msgid "Columns"
+msgstr ""
+
+#: widgets/project.php:416 widgets/project.php:1033
+#: widgets/inline-icon-box.php:91 widgets/inline-icon-box.php:455
+#: widgets/teams.php:92 widgets/teams.php:294 widgets/icon-box.php:91
+#: widgets/icon-box.php:515 widgets/services.php:214 widgets/services.php:599
+#: widgets/main-menu.php:114 widgets/testimonial.php:92 widgets/blog.php:381
+#: widgets/blog.php:844 widgets/dummy-widget/testimonial-stories.php:85
+#: widgets/dummy-widget/testimonial-stories.php:126
+#: widgets/dummy-widget/job-list.php:85 widgets/dummy-widget/job-list.php:153
+#: widgets/dummy-widget/integrated-icon.php:85
+#: widgets/dummy-widget/job-loop.php:92 widgets/dummy-widget/job-loop.php:168
+#: widgets/dummy-widget/testimonial-simple.php:91
+#: widgets/dummy-widget/testimonial-simple.php:154
+#: widgets/dummy-widget/testimonial-simple.php:248
+#: widgets/dummy-widget/testimonial-carousel.php:85
+#: widgets/dummy-widget/testimonial-carousel.php:131
+#: widgets/dummy-widget/hero-area.php:85 widgets/dummy-widget/team-loop.php:92
+#: widgets/dummy-widget/team-loop.php:208
+#: widgets/dummy-widget/page-title.php:90
+#: widgets/dummy-widget/newsletter-form.php:85
+#: widgets/dummy-widget/count-down.php:84 widgets/dummy-widget/post-loop.php:92
+#: widgets/dummy-widget/post-loop.php:207
+#: widgets/dummy-widget/service-loop.php:92
+#: widgets/dummy-widget/service-loop.php:167
+msgid "Content"
+msgstr ""
+
+#: widgets/testimonial.php:231
+msgid "Content Box"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:354
+#: widgets/dummy-widget/service-loop.php:320
+msgid "Content Box Padding"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:292
+msgid "Content Gap"
+msgstr ""
+
+#: widgets/project.php:1220 widgets/teams.php:354 widgets/icon-box.php:644
+#: widgets/services.php:718 widgets/blog.php:1014 inc/elmentor-extender.php:137
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:333
+msgid "Content Typography"
+msgstr ""
+
+#: widgets/project.php:1232
+msgid "Content Wrapper Padding"
+msgstr ""
+
+#: widgets/dummy-widget/cart-count.php:98
+msgid "Count Label"
+msgstr ""
+
+#: inc/elmentor-extender.php:20
+msgid "Counter Alignment"
+msgstr ""
+
+#: inc/elmentor-extender.php:72 inc/elmentor-extender.php:291
+msgid "Counter Gap"
+msgstr ""
+
+#: widgets/testimonial.php:460 widgets/testimonial.php:596
+msgid "Custom"
+msgstr ""
+
+#: inc/elmentor-extender.php:231 inc/elmentor-extender.php:244
+msgid "Custom CSS"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:97
+msgid "Custom Title"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:362
+msgid "Customer Icon Shadow"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-simple.php:137
+msgid "Customer Name"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:342
+msgid "CUstomer Name Typography"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:351
+msgid "Customer Title Typography"
+msgstr ""
+
+#: widgets/dummy-widget/count-down.php:91
+msgid "Date"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:150
+msgid "date"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:163
+#: widgets/dummy-widget/testimonial-carousel.php:115
+msgid "David Mark"
+msgstr ""
+
+#: widgets/icon.php:128
+msgid "Default"
+msgstr ""
+
+#: widgets/inline-icon-box.php:142 widgets/icon-box.php:158
+#: widgets/testimonial.php:304
+msgid "Description"
+msgstr ""
+
+#: widgets/inline-icon-box.php:532 widgets/icon-box.php:622
+#: widgets/dummy-widget/job-loop.php:273
+#: widgets/dummy-widget/testimonial-simple.php:257
+#: widgets/dummy-widget/doctor-box.php:380
+msgid "Description Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:405
+msgid "description Color"
+msgstr ""
+
+#: widgets/icon-box.php:590 widgets/dummy-widget/doctor-box.php:285
+msgid "Description Gap"
+msgstr ""
+
+#: widgets/inline-icon-box.php:522 widgets/icon-box.php:635
+#: widgets/dummy-widget/testimonial-simple.php:269
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:352
+msgid "Description typography"
+msgstr ""
+
+#: inc/custom-post-types.php:76 inc/custom-post-types.php:114
+#: inc/custom-post-types.php:158 inc/custom-post-types.php:253
+#: inc/custom-post-types.php:347 inc/custom-post-types.php:437
+msgid "Description."
+msgstr ""
+
+#: widgets/btn.php:505
+msgid "Disable Deafault Hover Effect"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:360
+msgid "Doctor Ability typography"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:86
+msgid "Doctor Box"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:114
+msgid "Doctor Description"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:94
+msgid "Doctor Image"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:105
+msgid "Doctor Name"
+msgstr ""
+
+#: widgets/main-menu.php:290
+msgid "Dropdown Style"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:493
+#: widgets/dummy-widget/pricing-box.php:370
+msgid "Duration Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:381
+msgid "Duration Spacing"
+msgstr ""
+
+#: widgets/icon-box.php:151 widgets/dummy-widget/testimonial-simple.php:147
+msgid "Easy Intragition"
+msgstr ""
+
+#: inc/custom-post-types.php:184 inc/custom-post-types.php:279
+#: inc/custom-post-types.php:373
+msgid "Edit Category"
+msgstr ""
+
+#: inc/custom-post-types.php:104
+msgid "Edit Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:66
+msgid "Edit Header"
+msgstr ""
+
+#: inc/custom-post-types.php:243
+msgid "Edit Member"
+msgstr ""
+
+#: inc/custom-post-types.php:337
+msgid "Edit Project"
+msgstr ""
+
+#: inc/custom-post-types.php:148
+msgid "Edit Service"
+msgstr ""
+
+#: inc/custom-post-types.php:211 inc/custom-post-types.php:305
+#: inc/custom-post-types.php:399
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/custom-post-types.php:427
+msgid "Edit Testimonial"
+msgstr ""
+
+#: mas-addons-helper.php:184 mas-addons-helper.php:208
+msgid "Elementor"
+msgstr ""
+
+#: widgets/icon-box.php:250
+msgid "Enable Icon Box"
+msgstr ""
+
+#: widgets/heading.php:297
+msgid "Enable Line?"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:108
+msgid "Enable Masonry?"
+msgstr ""
+
+#: widgets/contact-form.php:116
+msgid "Enter your shortcode"
+msgstr ""
+
+#: widgets/heading.php:131
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/project.php:1111 widgets/project.php:1159 widgets/services.php:647
+#: widgets/services.php:678 widgets/blog.php:922 widgets/blog.php:970
+#: widgets/dummy-widget/post-loop.php:312
+#: widgets/dummy-widget/service-loop.php:271
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/project.php:1064 widgets/services.php:617 widgets/blog.php:875
+#: widgets/dummy-widget/post-loop.php:303
+#: widgets/dummy-widget/service-loop.php:262
+msgid "Excerpt Typography"
+msgstr ""
+
+#: widgets/project.php:448 widgets/services.php:234 widgets/blog.php:413
+msgid "Excerpt Word Limit"
+msgstr ""
+
+#: widgets/project.php:259 widgets/blog.php:259
+msgid "Exclude"
+msgstr ""
+
+#: widgets/project.php:328 widgets/blog.php:328
+msgid "Exclude authors"
+msgstr ""
+
+#: widgets/project.php:269 widgets/blog.php:269
+msgid "Exclude by"
+msgstr ""
+
+#: widgets/project.php:292 widgets/blog.php:292
+msgid "Exclude categories"
+msgstr ""
+
+#: widgets/project.php:310 widgets/blog.php:310
+msgid "Exclude Tags"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:505
+#: widgets/dummy-widget/pricing-box.php:427
+msgid "Feature"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:163
+msgid "Feature Icon"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:468
+msgid "Feature Item Padding"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:186
+msgid "Feature List"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:253
+#: widgets/dummy-widget/pricing-box.php:175
+msgid "Features"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:521
+#: widgets/dummy-widget/pricing-box.php:442
+msgid "Features Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:479
+msgid "Features Padding"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:490
+msgid "Features Spacing"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:513
+#: widgets/dummy-widget/pricing-box.php:435
+msgid "Features typography"
+msgstr ""
+
+#: widgets/contact-form.php:351
+msgid "Fields Height"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:99
+msgid "First tab title"
+msgstr ""
+
+#: widgets/contact-form.php:266
+msgid "Focus"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:150
+msgid "Focused"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:183
+#: widgets/dummy-widget/pricing-box.php:113
+msgid "focused"
+msgstr ""
+
+#: widgets/contact-form.php:127
+msgid "Form Box"
+msgstr ""
+
+#: widgets/contact-form.php:184
+msgid "Form Fields"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:636
+msgid "Foucsed Box Shadow"
+msgstr ""
+
+#: widgets/icon.php:130
+msgid "Framed"
+msgstr ""
+
+#: widgets/project.php:94 widgets/services.php:92 widgets/blog.php:94
+#: widgets/dummy-widget/co-working-search.php:90
+#: widgets/dummy-widget/testimonial-stories.php:225
+#: widgets/dummy-widget/integrated-icon.php:194
+#: widgets/dummy-widget/product-categories.php:93
+#: widgets/dummy-widget/products.php:93 widgets/dummy-widget/job-search.php:90
+#: widgets/dummy-widget/testimonial-carousel.php:219
+#: widgets/dummy-widget/hero-area.php:162 widgets/dummy-widget/mini-cart.php:90
+#: widgets/dummy-widget/job-categories.php:93
+#: widgets/dummy-widget/doctor-box.php:220
+#: widgets/dummy-widget/cart-count.php:90
+msgid "General"
+msgstr ""
+
+#: widgets/project.php:156 widgets/blog.php:156
+msgid "Get specific template posts"
+msgstr ""
+
+#: widgets/project.php:205 widgets/project.php:294 widgets/blog.php:205
+#: widgets/blog.php:294
+msgid "Get templates for specific category(s)"
+msgstr ""
+
+#: widgets/project.php:224 widgets/project.php:242 widgets/project.php:312
+#: widgets/project.php:330 widgets/blog.php:224 widgets/blog.php:242
+#: widgets/blog.php:312 widgets/blog.php:330
+msgid "Get templates for specific tag(s)"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:120
+msgid "h1"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:121
+msgid "h2"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:122
+msgid "h3"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:123
+msgid "h4"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:124
+msgid "h5"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:125
+msgid "h6"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:268
+msgid "Heading Color"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:289
+msgid "Heading Padding"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:326
+msgid "Heading Shadow"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:108
+msgid "Heading text"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:135
+msgid "Heading URL"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:148
+msgid "Heart attack, high blood pressure"
+msgstr ""
+
+#: widgets/project.php:392 widgets/project.php:427 widgets/project.php:439
+#: widgets/project.php:483 widgets/project.php:1581
+#: widgets/inline-icon-box.php:198 widgets/teams.php:508
+#: widgets/icon-box.php:170 widgets/icon-box.php:253 widgets/services.php:203
+#: widgets/services.php:225 widgets/services.php:265 widgets/services.php:1088
+#: widgets/testimonial.php:102 widgets/testimonial.php:114
+#: widgets/testimonial.php:164 widgets/testimonial.php:177
+#: widgets/testimonial.php:189 widgets/blog.php:392 widgets/blog.php:404
+#: widgets/blog.php:448 widgets/blog.php:1363
+#: widgets/dummy-widget/pricing-table.php:264
+#: widgets/dummy-widget/job-list.php:102 widgets/dummy-widget/post-loop.php:111
+#: widgets/dummy-widget/post-loop.php:156
+#: widgets/dummy-widget/post-loop.php:168
+#: widgets/dummy-widget/post-loop.php:194
+#: widgets/dummy-widget/service-loop.php:153
+msgid "Hide"
+msgstr ""
+
+#: widgets/project.php:1578 widgets/teams.php:505 widgets/services.php:1085
+#: widgets/blog.php:1360
+msgid "Hide Last Item Border?"
+msgstr ""
+
+#: widgets/testimonial.php:495 widgets/testimonial.php:631
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/testimonial.php:239
+msgid "Horizontal Align"
+msgstr ""
+
+#: widgets/project.php:648 widgets/project.php:985 widgets/project.php:1127
+#: widgets/project.php:1365 widgets/project.php:1595
+#: widgets/inline-icon-box.php:268 widgets/icon.php:260 widgets/teams.php:522
+#: widgets/icon-box.php:302 widgets/icon-box.php:800
+#: widgets/post-navigation.php:284 widgets/back-to-top.php:231
+#: widgets/services.php:415 widgets/services.php:660 widgets/services.php:861
+#: widgets/services.php:1102 widgets/btn.php:244 widgets/btn.php:476
+#: widgets/testimonial.php:702 widgets/blog.php:613 widgets/blog.php:744
+#: widgets/blog.php:938 widgets/blog.php:1147 widgets/blog.php:1377
+msgid "Hover"
+msgstr ""
+
+#: widgets/project.php:1415 widgets/icon.php:311 widgets/back-to-top.php:278
+#: widgets/services.php:922 widgets/btn.php:526 widgets/blog.php:1197
+#: widgets/dummy-widget/page-title.php:350
+#: widgets/dummy-widget/pricing-box.php:559
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:430
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: widgets/heading.php:158
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themes.dhrubok.website/xpider"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grayic.com"
+msgstr ""
+
+#: widgets/icon.php:162
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/project.php:401 widgets/project.php:505
+#: widgets/inline-icon-box.php:104 widgets/inline-icon-box.php:166
+#: widgets/icon.php:105 widgets/icon.php:112 widgets/icon.php:197
+#: widgets/icon-box.php:104 widgets/icon-box.php:113 widgets/icon-box.php:242
+#: widgets/post-navigation.php:190 widgets/post-navigation.php:304
+#: widgets/back-to-top.php:105 widgets/back-to-top.php:112
+#: widgets/back-to-top.php:172 widgets/services.php:287 widgets/btn.php:130
+#: widgets/btn.php:178 widgets/blog.php:470
+#: widgets/dummy-widget/job-loop.php:124
+#: widgets/dummy-widget/page-title.php:143
+msgid "Icon"
+msgstr ""
+
+#: widgets/inline-icon-box.php:111
+msgid "Icon 1"
+msgstr ""
+
+#: widgets/inline-icon-box.php:183 widgets/icon-box.php:287
+#: widgets/icon-box.php:321
+msgid "Icon Background"
+msgstr ""
+
+#: widgets/project.php:1016
+msgid "Icon background color"
+msgstr ""
+
+#: widgets/project.php:856
+msgid "Icon bg color"
+msgstr ""
+
+#: widgets/inline-icon-box.php:447
+msgid "Icon Border"
+msgstr ""
+
+#: widgets/icon-box.php:467
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/elmentor-extender.php:171
+msgid "Icon Box Background Color"
+msgstr ""
+
+#: widgets/inline-icon-box.php:398
+msgid "Icon Box Border Radius"
+msgstr ""
+
+#: widgets/project.php:914 widgets/back-to-top.php:325
+msgid "Icon Box Height"
+msgstr ""
+
+#: widgets/inline-icon-box.php:369 widgets/icon-box.php:440
+#: inc/elmentor-extender.php:186
+msgid "Icon Box Size"
+msgstr ""
+
+#: widgets/project.php:891 widgets/back-to-top.php:308
+msgid "Icon Box Width"
+msgstr ""
+
+#: widgets/project.php:832 widgets/project.php:992 widgets/project.php:1275
+#: widgets/project.php:1372 widgets/inline-icon-box.php:209
+#: widgets/inline-icon-box.php:226 widgets/inline-icon-box.php:285
+#: widgets/icon-box.php:273 widgets/icon-box.php:308 widgets/icon-box.php:712
+#: widgets/icon-box.php:832 widgets/back-to-top.php:189
+#: widgets/back-to-top.php:238 widgets/services.php:760
+#: widgets/services.php:868 widgets/btn.php:196 widgets/btn.php:251
+#: widgets/testimonial.php:445 widgets/blog.php:1057 widgets/blog.php:1154
+#: widgets/dummy-widget/mini-cart.php:122
+#: widgets/dummy-widget/page-title.php:244
+#: widgets/dummy-widget/cart-count.php:143
+#: widgets/dummy-widget/service-loop.php:197
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/post-navigation.php:203 widgets/post-navigation.php:317
+#: widgets/services.php:772 widgets/services.php:880 widgets/btn.php:208
+#: widgets/btn.php:263
+msgid "Icon Fill Color"
+msgstr ""
+
+#: widgets/inline-icon-box.php:416 widgets/icon-box.php:485
+msgid "Icon Gap"
+msgstr ""
+
+#: widgets/project.php:1339 widgets/project.php:1444
+#: widgets/post-navigation.php:258 widgets/post-navigation.php:371
+#: widgets/services.php:835 widgets/services.php:951 widgets/btn.php:219
+#: widgets/btn.php:275 widgets/blog.php:1121 widgets/blog.php:1226
+#: widgets/dummy-widget/page-title.php:222
+msgid "Icon gap"
+msgstr ""
+
+#: widgets/inline-icon-box.php:275
+msgid "Icon Hover Background"
+msgstr ""
+
+#: widgets/project.php:516 widgets/services.php:298 widgets/btn.php:137
+#: widgets/blog.php:481 widgets/dummy-widget/page-title.php:150
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:148
+msgid "Icon Postion"
+msgstr ""
+
+#: widgets/inline-icon-box.php:241 widgets/inline-icon-box.php:300
+#: widgets/icon-box.php:507
+msgid "Icon Shadow"
+msgstr ""
+
+#: widgets/project.php:867 widgets/project.php:1480
+#: widgets/inline-icon-box.php:337 widgets/icon-box.php:353
+#: widgets/post-navigation.php:407 widgets/services.php:987 widgets/btn.php:302
+#: widgets/testimonial.php:545 widgets/blog.php:1262
+#: widgets/dummy-widget/job-loop.php:131
+#: widgets/dummy-widget/page-title.php:199
+#: widgets/dummy-widget/service-loop.php:175
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/inline-icon-box.php:123
+msgid "Icon Text"
+msgstr ""
+
+#: widgets/inline-icon-box.php:328 widgets/icon-box.php:343
+msgid "Icon Text Typography"
+msgstr ""
+
+#: widgets/inline-icon-box.php:99 widgets/icon-box.php:99
+msgid "Icon type"
+msgstr ""
+
+#: widgets/back-to-top.php:365
+msgid "Icon X Position"
+msgstr ""
+
+#: widgets/project.php:937
+msgid "Icon x position"
+msgstr ""
+
+#: widgets/back-to-top.php:341
+msgid "Icon Y Position"
+msgstr ""
+
+#: widgets/project.php:960
+msgid "Icon y position"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:151
+msgid "id"
+msgstr ""
+
+#: widgets/project.php:381 widgets/project.php:732 widgets/teams.php:216
+#: widgets/icon-box.php:105 widgets/services.php:192 widgets/services.php:341
+#: widgets/blog.php:697 widgets/dummy-widget/testimonial-simple.php:194
+#: widgets/dummy-widget/team-loop.php:169
+msgid "Image"
+msgstr ""
+
+#: inc/elmentor-extender.php:150
+msgid "Image Border"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:227
+msgid "Image Gap"
+msgstr ""
+
+#: widgets/project.php:771 widgets/teams.php:246 widgets/icon-box.php:412
+#: widgets/blog.php:807 widgets/dummy-widget/products.php:117
+#: widgets/dummy-widget/team-loop.php:176
+msgid "Image Height"
+msgstr ""
+
+#: inc/elmentor-extender.php:116
+msgid "Image Hover Shadow"
+msgstr ""
+
+#: widgets/project.php:810
+msgid "Image Icon Style"
+msgstr ""
+
+#: inc/elmentor-extender.php:124
+msgid "Image Margin"
+msgstr ""
+
+#: inc/elmentor-extender.php:207
+msgid "Image Oveerlay Radius"
+msgstr ""
+
+#: widgets/project.php:794 widgets/teams.php:280 widgets/services.php:585
+#: widgets/blog.php:830
+msgid "Image Padding"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-simple.php:109
+msgid "Image Position"
+msgstr ""
+
+#: widgets/services.php:485 widgets/dummy-widget/testimonial-simple.php:201
+msgid "Image Size"
+msgstr ""
+
+#: widgets/dummy-widget/team-loop.php:196
+msgid "Image spacing"
+msgstr ""
+
+#: widgets/project.php:748 widgets/icon-box.php:386 widgets/blog.php:785
+msgid "Image Width"
+msgstr ""
+
+#: widgets/teams.php:224
+msgid "Image width"
+msgstr ""
+
+#: widgets/project.php:174 widgets/blog.php:174
+msgid "Include"
+msgstr ""
+
+#: widgets/project.php:240 widgets/blog.php:240
+msgid "Include authors"
+msgstr ""
+
+#: widgets/project.php:184 widgets/blog.php:184
+msgid "Include by"
+msgstr ""
+
+#: widgets/project.php:203 widgets/blog.php:203
+msgid "Include categories"
+msgstr ""
+
+#: widgets/project.php:222 widgets/blog.php:222
+msgid "Include Tags"
+msgstr ""
+
+#: widgets/testimonial.php:186
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:313
+msgid "Inline"
+msgstr ""
+
+#: widgets/dummy-widget/newsletter-form.php:92
+msgid "Insert Form Shortcode"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:315
+msgctxt "Item"
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/main-menu.php:194 widgets/main-menu.php:227
+#: widgets/main-menu.php:327 widgets/main-menu.php:370
+msgid "Item Background Color"
+msgstr ""
+
+#: inc/elmentor-extender.php:341
+msgid "Item Border"
+msgstr ""
+
+#: inc/elmentor-extender.php:377
+msgid "Item Border Radius"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-carousel.php:239
+msgid "Item Box Shadow"
+msgstr ""
+
+#: widgets/main-menu.php:175 widgets/main-menu.php:315
+msgid "Item Color"
+msgstr ""
+
+#: widgets/main-menu.php:358
+msgid "Item Hover Color"
+msgstr ""
+
+#: inc/elmentor-extender.php:389
+msgid "Item Margin"
+msgstr ""
+
+#: widgets/main-menu.php:261 widgets/main-menu.php:397
+msgid "Item Padding"
+msgstr ""
+
+#: widgets/main-menu.php:275
+msgid "Item Radius"
+msgstr ""
+
+#: widgets/dummy-widget/job-categories.php:289
+msgctxt "Job"
+msgid "Job"
+msgid_plural "Jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/dummy-widget/job-loop.php:218
+msgid "Job Title Gap"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:202
+msgid "Job Type Color"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:175
+msgid "Job Type Gap"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:195
+msgid "Job Type Typography"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:112
+msgid "Jobs Count"
+msgstr ""
+
+#: widgets/heading.php:194 inc/elmentor-extender.php:60
+msgid "Justified"
+msgstr ""
+
+#: widgets/post-navigation.php:178 widgets/post-navigation.php:292
+msgid "label Color"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:99
+msgid "Layout Mode"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:99
+msgid "Layout type"
+msgstr ""
+
+#: widgets/icon-box.php:195
+msgid "Learn more"
+msgstr ""
+
+#: widgets/project.php:536 widgets/logo.php:122 widgets/icon.php:173
+#: widgets/teams.php:193 widgets/icon-box.php:216 widgets/back-to-top.php:148
+#: widgets/services.php:318 widgets/btn.php:153 widgets/main-menu.php:126
+#: widgets/heading.php:182 widgets/testimonial.php:243 widgets/blog.php:501
+#: inc/elmentor-extender.php:24 inc/elmentor-extender.php:48
+#: widgets/dummy-widget/job-list.php:126
+#: widgets/dummy-widget/testimonial-simple.php:114
+#: widgets/dummy-widget/testimonial-simple.php:169
+#: widgets/dummy-widget/page-title.php:166
+#: widgets/dummy-widget/cart-count.php:110
+#: widgets/dummy-widget/pricing-box.php:236
+msgid "Left"
+msgstr ""
+
+#: widgets/dummy-widget/service-loop.php:110
+msgid "Limit"
+msgstr ""
+
+#: widgets/heading.php:309
+msgid "Line Color"
+msgstr ""
+
+#: widgets/heading.php:348
+msgid "Line height"
+msgstr ""
+
+#: widgets/heading.php:289
+msgid "Line Style"
+msgstr ""
+
+#: widgets/heading.php:323
+msgid "Line Width"
+msgstr ""
+
+#: widgets/icon.php:157 widgets/heading.php:142
+msgid "Link"
+msgstr ""
+
+#: widgets/teams.php:413 widgets/dummy-widget/team-loop.php:324
+#, php-format
+msgid "Link %ext Typography"
+msgstr ""
+
+#: widgets/teams.php:420 widgets/dummy-widget/team-loop.php:331
+msgid "Link Color"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:103
+msgid "List"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:264
+msgid "Location Typography"
+msgstr ""
+
+#: widgets/icon-box.php:160 widgets/dummy-widget/testimonial-simple.php:156
+msgid "Lorem ipsum dolor sit amet, consetetur sadipscing elitr love it"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:147
+#: widgets/dummy-widget/doctor-box.php:180
+#: widgets/dummy-widget/pricing-box.php:110
+msgid "Make it focsed"
+msgstr ""
+
+#: widgets/project.php:154 widgets/blog.php:154
+msgid "Manual Selection"
+msgstr ""
+
+#: widgets/testimonial.php:290 widgets/testimonial.php:331
+#: widgets/testimonial.php:372 widgets/testimonial.php:413
+msgid "Margin"
+msgstr ""
+
+#: widgets/main-menu.php:338
+msgid "Menu Border Color"
+msgstr ""
+
+#: widgets/main-menu.php:242
+msgid "Menu Gap"
+msgstr ""
+
+#: widgets/main-menu.php:214
+msgid "Menu Homver Color"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:152
+msgid "menu order"
+msgstr ""
+
+#: widgets/main-menu.php:384
+msgid "Menu radius"
+msgstr ""
+
+#: widgets/main-menu.php:148
+msgid "Menu Style"
+msgstr ""
+
+#: widgets/main-menu.php:157 widgets/main-menu.php:298
+msgid "Menu Typography"
+msgstr ""
+
+#: widgets/testimonial.php:274
+msgid "Middle"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-simple.php:436
+msgid "Min Height"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:185
+msgid "Montly Price"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:196
+msgid "Montly Price Duration text"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:207
+msgid "Montly Price Subtitle"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:241
+msgid "Montly Price Yearly"
+msgstr ""
+
+#: widgets/testimonial.php:345 widgets/dummy-widget/testimonial-stories.php:161
+#: widgets/dummy-widget/testimonial-simple.php:134
+#: widgets/dummy-widget/testimonial-carousel.php:113
+msgid "Name"
+msgstr ""
+
+#: widgets/teams.php:309 widgets/dummy-widget/testimonial-simple.php:303
+#: widgets/dummy-widget/team-loop.php:223
+#: widgets/dummy-widget/doctor-box.php:369
+msgid "Name Color"
+msgstr ""
+
+#: inc/elmentor-extender.php:308 widgets/dummy-widget/doctor-box.php:256
+msgid "Name Gap"
+msgstr ""
+
+#: widgets/teams.php:319 widgets/dummy-widget/team-loop.php:233
+msgid "Name Spacing"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-simple.php:315
+msgid "Name Typography"
+msgstr ""
+
+#: widgets/teams.php:302 widgets/dummy-widget/team-loop.php:216
+#: widgets/dummy-widget/doctor-box.php:344
+msgid "Name typography"
+msgstr ""
+
+#: widgets/post-navigation.php:433
+msgid "Nav Padding"
+msgstr ""
+
+#: widgets/testimonial.php:583
+msgid "Navigation - Arrow"
+msgstr ""
+
+#: inc/custom-post-types.php:187 inc/custom-post-types.php:282
+#: inc/custom-post-types.php:376
+msgid "New Category Name"
+msgstr ""
+
+#: inc/custom-post-types.php:103
+msgid "New Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:65
+msgid "New Header"
+msgstr ""
+
+#: inc/custom-post-types.php:242
+msgid "New Member"
+msgstr ""
+
+#: inc/custom-post-types.php:336
+msgid "New Project"
+msgstr ""
+
+#: inc/custom-post-types.php:147
+msgid "New Service"
+msgstr ""
+
+#: inc/custom-post-types.php:214 inc/custom-post-types.php:308
+#: inc/custom-post-types.php:402
+msgid "New Tag Name"
+msgstr ""
+
+#: inc/custom-post-types.php:426
+msgid "New Testimonial"
+msgstr ""
+
+#: widgets/post-navigation.php:126
+msgid "Next Icon"
+msgstr ""
+
+#: widgets/post-navigation.php:107
+msgid "Next Project"
+msgstr ""
+
+#: widgets/post-navigation.php:105
+msgid "Next Text"
+msgstr ""
+
+#: widgets/teams.php:146 widgets/btn.php:104 widgets/btn.php:508
+#: widgets/heading.php:300 widgets/dummy-widget/pricing-table.php:137
+#: widgets/dummy-widget/product-categories.php:124
+#: widgets/dummy-widget/products.php:138 widgets/dummy-widget/team-loop.php:124
+#: widgets/dummy-widget/page-title.php:100
+msgid "No"
+msgstr ""
+
+#: inc/custom-post-types.php:110
+msgid "No Footers found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:109
+msgid "No Footers found."
+msgstr ""
+
+#: inc/custom-post-types.php:72
+msgid "No Headers found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:71
+msgid "No Headers found."
+msgstr ""
+
+#: inc/custom-post-types.php:343
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:342
+msgid "No Projects found."
+msgstr ""
+
+#: inc/custom-post-types.php:154
+msgid "No Services found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:153
+msgid "No Services found."
+msgstr ""
+
+#: inc/custom-post-types.php:249
+msgid "No Team Members found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:248
+msgid "No Team Members found."
+msgstr ""
+
+#: inc/custom-post-types.php:433
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: inc/custom-post-types.php:432
+msgid "No Testimonial found."
+msgstr ""
+
+#: widgets/testimonial.php:459 widgets/testimonial.php:595
+msgid "None"
+msgstr ""
+
+#: widgets/project.php:595 widgets/project.php:825 widgets/project.php:1079
+#: widgets/project.php:1268 widgets/project.php:1530
+#: widgets/inline-icon-box.php:177 widgets/contact-form.php:205
+#: widgets/icon.php:207 widgets/teams.php:457 widgets/icon-box.php:266
+#: widgets/icon-box.php:671 widgets/post-navigation.php:171
+#: widgets/back-to-top.php:182 widgets/services.php:353
+#: widgets/services.php:629 widgets/services.php:753 widgets/services.php:1037
+#: widgets/btn.php:189 widgets/btn.php:403 widgets/heading.php:263
+#: widgets/testimonial.php:682 widgets/blog.php:560 widgets/blog.php:709
+#: widgets/blog.php:890 widgets/blog.php:1050 widgets/blog.php:1312
+#: widgets/dummy-widget/doctor-box.php:459
+msgid "Normal"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:133
+msgid "Normal Image Height"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:149
+msgid "Not Focused"
+msgstr ""
+
+#: widgets/services.php:365 widgets/services.php:377 widgets/services.php:426
+#: widgets/services.php:438 widgets/blog.php:721 widgets/blog.php:733
+#: widgets/blog.php:755 widgets/blog.php:767
+msgid ""
+"Note: This color only work with svg. If your featured image is svg thent it "
+"will work."
+msgstr ""
+
+#: widgets/testimonial.php:123
+msgid "Numbar Of Testimonial"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:190
+msgid "Ofer Color"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:95
+msgid "Offer"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:393
+msgid "Offer Background Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:383
+msgid "Offer Color"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:93
+msgid "Offer label"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:115
+#: widgets/dummy-widget/hero-area.php:101
+msgid "Offer text"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:376
+msgid "Offer typography"
+msgstr ""
+
+#: widgets/project.php:365 widgets/services.php:141 widgets/blog.php:365
+msgid "Order"
+msgstr ""
+
+#: widgets/project.php:350 widgets/services.php:126 widgets/blog.php:350
+msgid "Order By"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:146
+msgid "orderby"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:127
+msgid "p"
+msgstr ""
+
+#: widgets/contact-form.php:146 widgets/contact-form.php:438
+#: widgets/icon.php:341 widgets/testimonial.php:522
+#: widgets/dummy-widget/product-categories.php:254
+#: widgets/dummy-widget/job-categories.php:229
+msgid "Padding"
+msgstr ""
+
+#: widgets/project.php:559 widgets/blog.php:524
+msgid "Pagination"
+msgstr ""
+
+#: widgets/project.php:619 widgets/blog.php:584
+msgid "Pagination Background Color"
+msgstr ""
+
+#: widgets/project.php:675 widgets/blog.php:640
+msgid "Pagination Background Hover Color"
+msgstr ""
+
+#: widgets/project.php:636 widgets/blog.php:601
+msgid "Pagination Border"
+msgstr ""
+
+#: widgets/project.php:713 widgets/blog.php:678
+msgid "Pagination Border Radius"
+msgstr ""
+
+#: widgets/project.php:604 widgets/blog.php:569
+msgid "Pagination Color"
+msgstr ""
+
+#: widgets/project.php:693 widgets/blog.php:658
+msgid "Pagination Hover Border"
+msgstr ""
+
+#: widgets/project.php:658 widgets/blog.php:623
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: widgets/project.php:579 widgets/blog.php:544
+msgid "Pagination typography"
+msgstr ""
+
+#: inc/custom-post-types.php:70 inc/custom-post-types.php:108
+#: inc/custom-post-types.php:152 inc/custom-post-types.php:247
+#: inc/custom-post-types.php:341 inc/custom-post-types.php:431
+msgid "Parent :"
+msgstr ""
+
+#: inc/custom-post-types.php:182 inc/custom-post-types.php:277
+#: inc/custom-post-types.php:371
+msgid "Parent Category"
+msgstr ""
+
+#: inc/custom-post-types.php:183 inc/custom-post-types.php:278
+#: inc/custom-post-types.php:372
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/custom-post-types.php:209 inc/custom-post-types.php:303
+#: inc/custom-post-types.php:397
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/custom-post-types.php:210 inc/custom-post-types.php:304
+#: inc/custom-post-types.php:398
+msgid "Parent Tag:"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:198
+msgid "per month"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:232
+msgid "per year"
+msgstr ""
+
+#: mas-addons-helper.php:233
+msgid "PHP"
+msgstr ""
+
+#: widgets/contact-form.php:223 widgets/contact-form.php:284
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:153
+msgid "popularity"
+msgstr ""
+
+#: widgets/testimonial.php:386 widgets/testimonial.php:457
+#: widgets/testimonial.php:593
+msgid "Position"
+msgstr ""
+
+#: widgets/project.php:110 widgets/teams.php:109 widgets/services.php:109
+#: widgets/blog.php:110 widgets/dummy-widget/team-loop.php:108
+#: widgets/dummy-widget/post-loop.php:120
+#: widgets/dummy-widget/service-loop.php:118
+msgid "Post grid"
+msgstr ""
+
+#: widgets/post-navigation.php:90
+msgid "Post Navigation"
+msgstr ""
+
+#: widgets/services.php:100
+msgid "Post to show"
+msgstr ""
+
+#: widgets/project.php:127 widgets/blog.php:127
+msgid "Post Type"
+msgstr ""
+
+#: inc/custom-post-types.php:97
+msgctxt "post type general name"
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:59
+msgctxt "post type general name"
+msgid "Header"
+msgstr ""
+
+#: inc/custom-post-types.php:330
+msgctxt "post type general name"
+msgid "Project"
+msgstr ""
+
+#: inc/custom-post-types.php:141
+msgctxt "post type general name"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-post-types.php:236
+msgctxt "post type general name"
+msgid "Team Member"
+msgstr ""
+
+#: inc/custom-post-types.php:420
+msgctxt "post type general name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-post-types.php:98
+msgctxt "post type singular name"
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:60
+msgctxt "post type singular name"
+msgid "Header"
+msgstr ""
+
+#: inc/custom-post-types.php:331
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: inc/custom-post-types.php:142
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-post-types.php:237
+msgctxt "post type singular name"
+msgid "Team Member"
+msgstr ""
+
+#: inc/custom-post-types.php:421
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/teams.php:343 widgets/dummy-widget/team-loop.php:257
+msgid "Postion Color"
+msgstr ""
+
+#: widgets/dummy-widget/team-loop.php:267
+msgid "Postion Spacing"
+msgstr ""
+
+#: widgets/teams.php:336 widgets/dummy-widget/team-loop.php:250
+msgid "Postion typography"
+msgstr ""
+
+#: widgets/project.php:101 widgets/teams.php:99 widgets/blog.php:101
+#: widgets/dummy-widget/job-list.php:92 widgets/dummy-widget/team-loop.php:99
+#: widgets/dummy-widget/post-loop.php:99
+msgid "Posts per page"
+msgstr ""
+
+#: widgets/testimonial.php:657
+msgid "Prev Aarrow Gap"
+msgstr ""
+
+#: widgets/post-navigation.php:114
+msgid "Prev Icon"
+msgstr ""
+
+#: widgets/post-navigation.php:157
+msgid "Prev Next Text Typography"
+msgstr ""
+
+#: widgets/post-navigation.php:97
+#: widgets/dummy-widget/testimonial-stories.php:199
+#: widgets/dummy-widget/testimonial-stories.php:208
+msgid "Prev Text"
+msgstr ""
+
+#: widgets/post-navigation.php:99
+msgid "Previous Project"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:453
+#: widgets/dummy-widget/pricing-box.php:312
+msgid "Price"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:92
+msgid "Price Box"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:468
+#: widgets/dummy-widget/pricing-box.php:335
+msgid "Price Color"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:173
+#: widgets/dummy-widget/pricing-box.php:123
+msgid "Price Currency"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:320
+msgid "Price Currency Typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:149
+msgid "Price Description"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:398
+msgid "Price Description typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:140
+msgid "Price Duration"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:485
+#: widgets/dummy-widget/pricing-box.php:363
+msgid "Price Duration typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:346
+#: widgets/dummy-widget/pricing-box.php:416
+msgid "Price Spacing"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:126
+msgid "Price tables"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:91
+msgid "Price Tabs"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:131
+msgid "Price Text"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:161
+#: widgets/dummy-widget/pricing-box.php:101
+msgid "Price title"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:461
+#: widgets/dummy-widget/pricing-box.php:328
+msgid "Price typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:344
+msgid "Pricing Tabs"
+msgstr ""
+
+#: widgets/icon.php:214 widgets/icon.php:267
+msgid "Primary Color"
+msgstr ""
+
+#: widgets/main-menu.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:99
+msgid "Product Limit"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:112
+msgid "Promote your web app seamlessly with us"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:154
+msgid "rand"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:155
+msgid "rating"
+msgstr ""
+
+#: widgets/project.php:495 widgets/services.php:277 widgets/blog.php:460
+msgid "READ MORE"
+msgstr ""
+
+#: widgets/project.php:472 widgets/services.php:254 widgets/blog.php:437
+msgid "Readmore"
+msgstr ""
+
+#: widgets/project.php:480 widgets/services.php:262 widgets/blog.php:445
+msgid "Readmore button"
+msgstr ""
+
+#: widgets/dummy-widget/job-list.php:111
+msgid "Readmore Button Text"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:177
+msgid "Readmore Text"
+msgstr ""
+
+#: widgets/project.php:493 widgets/services.php:275 widgets/blog.php:458
+msgid "Readmore text"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:329
+#: widgets/dummy-widget/testimonial-stories.php:179
+#: widgets/dummy-widget/testimonial-carousel.php:155
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/project.php:544 widgets/logo.php:130 widgets/icon.php:181
+#: widgets/teams.php:201 widgets/icon-box.php:224 widgets/back-to-top.php:156
+#: widgets/services.php:326 widgets/btn.php:161 widgets/main-menu.php:134
+#: widgets/heading.php:190 widgets/testimonial.php:251 widgets/blog.php:509
+#: inc/elmentor-extender.php:32 inc/elmentor-extender.php:56
+#: widgets/dummy-widget/job-list.php:134
+#: widgets/dummy-widget/testimonial-simple.php:122
+#: widgets/dummy-widget/testimonial-simple.php:177
+#: widgets/dummy-widget/page-title.php:174
+#: widgets/dummy-widget/cart-count.php:118
+#: widgets/dummy-widget/pricing-box.php:244
+msgid "Right"
+msgstr ""
+
+#: widgets/icon.php:361 widgets/back-to-top.php:388
+msgid "Rotate"
+msgstr ""
+
+#: widgets/services.php:172
+msgid "Row Gap"
+msgstr ""
+
+#: inc/custom-post-types.php:180 inc/custom-post-types.php:275
+#: inc/custom-post-types.php:369
+msgid "Search Categories"
+msgstr ""
+
+#: inc/custom-post-types.php:107
+msgid "Search Footers"
+msgstr ""
+
+#: inc/custom-post-types.php:69
+msgid "Search Headers"
+msgstr ""
+
+#: inc/custom-post-types.php:340
+msgid "Search Projects"
+msgstr ""
+
+#: inc/custom-post-types.php:151
+msgid "Search Services"
+msgstr ""
+
+#: inc/custom-post-types.php:207 inc/custom-post-types.php:301
+#: inc/custom-post-types.php:395
+msgid "Search Tags"
+msgstr ""
+
+#: inc/custom-post-types.php:246
+msgid "Search Team Members"
+msgstr ""
+
+#: inc/custom-post-types.php:430
+msgid "Search Testimonial"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:107
+msgid "Second tab title"
+msgstr ""
+
+#: widgets/icon.php:241 widgets/icon.php:294
+msgid "Secondary Color"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:170
+#: widgets/dummy-widget/hero-area.php:234
+msgid "Section Background"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:151
+msgid "Select Company Icon"
+msgstr ""
+
+#: widgets/dummy-widget/co-working-search.php:162
+msgid "Select Date"
+msgstr ""
+
+#: widgets/dummy-widget/co-working-search.php:153
+msgid "Select Location"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:104
+msgid "Select Quote Icon"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:135
+#: widgets/dummy-widget/testimonial-carousel.php:140
+msgid "Select star"
+msgstr ""
+
+#: widgets/dummy-widget/service-loop.php:98
+msgid "Select Style"
+msgstr ""
+
+#: widgets/testimonial.php:150
+msgid "Selider Settings"
+msgstr ""
+
+#: inc/elmentor-extender.php:13 inc/elmentor-extender.php:94
+#: inc/elmentor-extender.php:164 inc/elmentor-extender.php:284
+#: inc/elmentor-extender.php:332
+msgid "Shaepro Extra"
+msgstr ""
+
+#: widgets/icon.php:140 widgets/back-to-top.php:125
+msgid "Shape"
+msgstr ""
+
+#: widgets/services.php:384 widgets/services.php:445
+msgid "Shape Color"
+msgstr ""
+
+#: widgets/services.php:398 widgets/services.php:459
+msgid "Shape Radius"
+msgstr ""
+
+#: widgets/services.php:507
+msgid "Shape Size"
+msgstr ""
+
+#: widgets/services.php:559 widgets/heading.php:400
+msgid "Shape X Position"
+msgstr ""
+
+#: widgets/services.php:533 widgets/heading.php:374
+msgid "Shape Y Position"
+msgstr ""
+
+#: widgets/project.php:391 widgets/project.php:426 widgets/project.php:438
+#: widgets/project.php:482 widgets/project.php:1580
+#: widgets/inline-icon-box.php:197 widgets/teams.php:507
+#: widgets/icon-box.php:169 widgets/icon-box.php:252 widgets/services.php:202
+#: widgets/services.php:224 widgets/services.php:264 widgets/services.php:1087
+#: widgets/testimonial.php:101 widgets/testimonial.php:113
+#: widgets/testimonial.php:163 widgets/testimonial.php:176
+#: widgets/testimonial.php:188 widgets/blog.php:391 widgets/blog.php:403
+#: widgets/blog.php:447 widgets/blog.php:1362
+#: widgets/dummy-widget/pricing-table.php:263
+#: widgets/dummy-widget/job-list.php:103 widgets/dummy-widget/post-loop.php:110
+#: widgets/dummy-widget/post-loop.php:155
+#: widgets/dummy-widget/post-loop.php:167
+#: widgets/dummy-widget/post-loop.php:193
+#: widgets/dummy-widget/service-loop.php:152
+msgid "Show"
+msgstr ""
+
+#: widgets/teams.php:144 widgets/dummy-widget/team-loop.php:122
+msgid "Show apply link?"
+msgstr ""
+
+#: widgets/testimonial.php:161
+msgid "Show arrows?"
+msgstr ""
+
+#: widgets/icon-box.php:167 widgets/dummy-widget/pricing-table.php:261
+msgid "Show Button"
+msgstr ""
+
+#: widgets/project.php:424 widgets/blog.php:389
+msgid "Show category"
+msgstr ""
+
+#: widgets/project.php:436 widgets/blog.php:401
+msgid "Show Content"
+msgstr ""
+
+#: widgets/services.php:222 widgets/dummy-widget/post-loop.php:153
+#: widgets/dummy-widget/service-loop.php:150
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/project.php:389
+msgid "Show Icon"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:135
+msgid "Show Only Features"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:135 widgets/dummy-widget/post-loop.php:191
+msgid "Show Pagination?"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:165
+msgid "Show Readmore"
+msgstr ""
+
+#: widgets/dummy-widget/job-list.php:100
+msgid "Show Readmore Button"
+msgstr ""
+
+#: widgets/services.php:200
+msgid "Show Shape"
+msgstr ""
+
+#: widgets/icon.php:323 widgets/back-to-top.php:290
+msgid "Size"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:190
+#: widgets/dummy-widget/testimonial-carousel.php:166
+msgid "SLide Settings"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-carousel.php:175
+msgid "Slide to show in big screen"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-carousel.php:185
+msgid "Slide to show in desktop"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-carousel.php:203
+msgid "Slide to show in mobile"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-carousel.php:194
+msgid "Slide to show in tablet"
+msgstr ""
+
+#: widgets/testimonial.php:99
+msgid "Slider On/OFF"
+msgstr ""
+
+#: widgets/project.php:140 widgets/blog.php:140
+msgid "Source"
+msgstr ""
+
+#: widgets/contact-form.php:420
+msgid "Spacing Between"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:126
+msgid "span"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:117
+msgid "Specialist, MD in Immune System Disorders (ISD)"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:128
+msgid "Specialized in"
+msgstr ""
+
+#: widgets/icon.php:144 widgets/back-to-top.php:129
+msgid "Square"
+msgstr ""
+
+#: widgets/icon.php:129
+msgid "Stacked"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:262
+msgid "Star Icon Gap"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:128
+msgid "strong"
+msgstr ""
+
+#: widgets/post-navigation.php:146
+msgid "Style"
+msgstr ""
+
+#: widgets/dummy-widget/job-search.php:98
+msgid "Submit Label"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:202
+#: widgets/dummy-widget/job-categories.php:177
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/project.php:844 widgets/project.php:1004 widgets/icon-box.php:724
+#: widgets/icon-box.php:844 widgets/services.php:372 widgets/services.php:433
+#: widgets/blog.php:728 widgets/blog.php:762
+msgid "SVG Fill Color"
+msgstr ""
+
+#: widgets/icon.php:229 widgets/icon.php:281 widgets/back-to-top.php:202
+#: widgets/back-to-top.php:251 widgets/services.php:360
+#: widgets/services.php:421 widgets/blog.php:716 widgets/blog.php:750
+msgid "SVG Line Color"
+msgstr ""
+
+#: inc/custom-post-types.php:215 inc/custom-post-types.php:309
+#: inc/custom-post-types.php:403
+msgid "Tag"
+msgstr ""
+
+#: inc/custom-post-types.php:178 inc/custom-post-types.php:273
+#: inc/custom-post-types.php:367
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-types.php:205 inc/custom-post-types.php:299
+#: inc/custom-post-types.php:393
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: inc/custom-post-types.php:179 inc/custom-post-types.php:274
+#: inc/custom-post-types.php:368
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: inc/custom-post-types.php:206 inc/custom-post-types.php:300
+#: inc/custom-post-types.php:394
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:93
+#: widgets/dummy-widget/testimonial-carousel.php:93
+msgid "Testimonial title"
+msgstr ""
+
+#: widgets/inline-icon-box.php:103 widgets/icon-box.php:103
+msgid "Text"
+msgstr ""
+
+#: widgets/contact-form.php:212 widgets/contact-form.php:273
+#: widgets/heading.php:227
+msgid "Text Color"
+msgstr ""
+
+#: widgets/contact-form.php:370
+msgid "Textarea Height"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is compatible with Mas WordPress Landing Page Theme"
+msgstr ""
+
+#: widgets/dummy-widget/count-down.php:102
+#: widgets/dummy-widget/count-down.php:136
+msgid "Time"
+msgstr ""
+
+#: widgets/inline-icon-box.php:133 widgets/icon-box.php:148
+#: widgets/heading.php:107 widgets/heading.php:126 widgets/heading.php:219
+#: widgets/dummy-widget/pricing-table.php:427
+#: widgets/dummy-widget/testimonial-stories.php:170
+#: widgets/dummy-widget/product-categories.php:156
+#: widgets/dummy-widget/testimonial-simple.php:144
+#: widgets/dummy-widget/testimonial-carousel.php:122
+#: widgets/dummy-widget/hero-area.php:110
+#: widgets/dummy-widget/job-categories.php:131
+#: widgets/dummy-widget/pricing-box.php:263
+msgid "Title"
+msgstr ""
+
+#: widgets/dummy-widget/products.php:156 widgets/dummy-widget/mini-cart.php:115
+#: widgets/dummy-widget/page-title.php:192
+#: widgets/dummy-widget/cart-count.php:136
+msgid "title"
+msgstr ""
+
+#: inc/elmentor-extender.php:44
+msgid "Title Alignment"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:290
+msgid "Title Background Color"
+msgstr ""
+
+#: widgets/project.php:1100 widgets/project.php:1148
+#: widgets/inline-icon-box.php:502 widgets/icon-box.php:560
+#: widgets/services.php:636 widgets/services.php:667 widgets/blog.php:911
+#: widgets/blog.php:959 widgets/dummy-widget/pricing-table.php:359
+#: widgets/dummy-widget/pricing-table.php:442
+#: widgets/dummy-widget/job-loop.php:245
+#: widgets/dummy-widget/product-categories.php:172
+#: widgets/dummy-widget/testimonial-simple.php:329
+#: widgets/dummy-widget/hero-area.php:217
+#: widgets/dummy-widget/job-categories.php:147
+#: widgets/dummy-widget/post-loop.php:284
+#: widgets/dummy-widget/pricing-box.php:279
+#: widgets/dummy-widget/service-loop.php:243
+msgid "Title Color"
+msgstr ""
+
+#: widgets/project.php:1202 widgets/inline-icon-box.php:462
+#: widgets/icon-box.php:530 widgets/services.php:700 widgets/blog.php:996
+#: widgets/dummy-widget/testimonial-stories.php:233
+#: widgets/dummy-widget/testimonial-simple.php:277
+#: widgets/dummy-widget/post-loop.php:257
+#: widgets/dummy-widget/service-loop.php:216
+msgid "Title Gap"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:182
+#: widgets/dummy-widget/product-categories.php:227
+#: widgets/dummy-widget/job-categories.php:157
+#: widgets/dummy-widget/job-categories.php:202
+msgid "Title gap"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:300
+msgid "Title Spacing"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:116
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/project.php:1054 widgets/inline-icon-box.php:494
+#: widgets/icon-box.php:573 widgets/services.php:608 widgets/blog.php:865
+#: widgets/dummy-widget/testimonial-stories.php:324
+#: widgets/dummy-widget/job-loop.php:238
+#: widgets/dummy-widget/product-categories.php:164
+#: widgets/dummy-widget/product-categories.php:209
+#: widgets/dummy-widget/testimonial-simple.php:341
+#: widgets/dummy-widget/testimonial-carousel.php:228
+#: widgets/dummy-widget/hero-area.php:208
+#: widgets/dummy-widget/job-categories.php:139
+#: widgets/dummy-widget/job-categories.php:184
+#: widgets/dummy-widget/post-loop.php:277
+#: widgets/dummy-widget/service-loop.php:236
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:352
+#: widgets/dummy-widget/pricing-table.php:435
+#: widgets/dummy-widget/pricing-box.php:272
+msgid "Title typography"
+msgstr ""
+
+#: widgets/testimonial.php:270 widgets/dummy-widget/testimonial-simple.php:118
+msgid "Top"
+msgstr ""
+
+#: widgets/project.php:540 widgets/logo.php:126 widgets/teams.php:197
+#: widgets/icon-box.php:220 widgets/services.php:322 widgets/btn.php:157
+#: widgets/main-menu.php:130 widgets/blog.php:505
+#: widgets/dummy-widget/job-list.php:130
+#: widgets/dummy-widget/testimonial-simple.php:173
+#: widgets/dummy-widget/page-title.php:170
+#: widgets/dummy-widget/cart-count.php:114
+#: widgets/dummy-widget/pricing-box.php:240
+msgid "top"
+msgstr ""
+
+#: mas-addons-helper.php:322
+msgid "Mas addons"
+msgstr ""
+
+#: widgets/back-to-top.php:46
+msgid "Mas Back To Top"
+msgstr ""
+
+#: widgets/blog.php:42
+msgid "Mas Blog"
+msgstr ""
+
+#: widgets/dummy-widget/post-loop.php:42
+msgid "Mas Blog Loop"
+msgstr ""
+
+#: widgets/btn.php:43
+msgid "Mas Button"
+msgstr ""
+
+#: widgets/dummy-widget/cart-count.php:40
+msgid "Mas Cart Count"
+msgstr ""
+
+#: widgets/dummy-widget/mini-cart.php:40
+msgid "Mas Cart Link"
+msgstr ""
+
+#: widgets/dummy-widget/co-working-search.php:40
+msgid "Mas Co Working Search"
+msgstr ""
+
+#: widgets/contact-form.php:42
+msgid "Mas Contact Form"
+msgstr ""
+
+#: widgets/dummy-widget/count-down.php:37
+msgid "Mas Countdown"
+msgstr ""
+
+#: widgets/dummy-widget/doctor-box.php:38
+msgid "Mas Doctor Box"
+msgstr ""
+
+#: widgets/heading.php:48
+msgid "Mas Heading"
+msgstr ""
+
+#. Name of the plugin
+#: mas-addons-helper.php:207
+msgid "Mas Helper"
+msgstr ""
+
+#: widgets/dummy-widget/hero-area.php:38
+msgid "Mas Hero Area"
+msgstr ""
+
+#: widgets/icon.php:46
+msgid "Mas Icon"
+msgstr ""
+
+#: widgets/icon-box.php:41
+msgid "Mas Icon Box"
+msgstr ""
+
+#: widgets/inline-icon-box.php:41
+msgid "Mas Inline Icon box"
+msgstr ""
+
+#: widgets/dummy-widget/integrated-icon.php:38
+msgid "Mas Integrated Icons"
+msgstr ""
+
+#: widgets/dummy-widget/job-list.php:38
+msgid "Mas Job List"
+msgstr ""
+
+#: widgets/dummy-widget/job-loop.php:42
+msgid "Mas Job Loop"
+msgstr ""
+
+#: widgets/dummy-widget/job-search.php:40
+msgid "Mas Job Search"
+msgstr ""
+
+#: widgets/dummy-widget/newsletter-form.php:38
+msgid "Mas Newsletter Form"
+msgstr ""
+
+#: widgets/dummy-widget/page-title.php:40
+msgid "Mas Page Title"
+msgstr ""
+
+#: widgets/post-navigation.php:40
+msgid "Mas Post Navigation"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-box.php:41
+msgid "Mas Price Box"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:41
+msgid "Mas Pricing Loop"
+msgstr ""
+
+#: widgets/project.php:42
+msgid "Mas Project"
+msgstr ""
+
+#: widgets/dummy-widget/service-loop.php:42
+msgid "Mas Service Loop"
+msgstr ""
+
+#: widgets/services.php:42
+msgid "Mas Services"
+msgstr ""
+
+#: widgets/dummy-widget/team-loop.php:42
+msgid "Mas Team Loop"
+msgstr ""
+
+#: widgets/teams.php:42
+msgid "Mas Teams"
+msgstr ""
+
+#: widgets/testimonial.php:42 widgets/dummy-widget/testimonial-simple.php:41
+#: widgets/dummy-widget/testimonial-carousel.php:38
+msgid "Mas Testimonial"
+msgstr ""
+
+#: widgets/dummy-widget/testimonial-stories.php:38
+msgid "Mas Testimonial Stories"
+msgstr ""
+
+#: mas-addons-helper.php:183 mas-addons-helper.php:232
+msgid "mas-addons"
+msgstr ""
+
+#: widgets/contact-form.php:193 widgets/btn.php:390 widgets/testimonial.php:322
+#: widgets/testimonial.php:363 widgets/testimonial.php:404
+#: widgets/dummy-widget/hero-area.php:181
+#: widgets/dummy-widget/mini-cart.php:134
+#: widgets/dummy-widget/page-title.php:258
+#: widgets/dummy-widget/cart-count.php:155
+msgid "Typography"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:597
+msgid "typography"
+msgstr ""
+
+#: inc/custom-post-types.php:185 inc/custom-post-types.php:280
+#: inc/custom-post-types.php:374
+msgid "Update Category"
+msgstr ""
+
+#: inc/custom-post-types.php:212 inc/custom-post-types.php:306
+#: inc/custom-post-types.php:400
+msgid "Update Tag"
+msgstr ""
+
+#: widgets/inline-icon-box.php:150 widgets/icon-box.php:203
+msgid "URL"
+msgstr ""
+
+#: widgets/dummy-widget/product-categories.php:121
+msgid "Use custom height?"
+msgstr ""
+
+#: widgets/testimonial.php:470 widgets/testimonial.php:606
+msgid "Vertical"
+msgstr ""
+
+#: widgets/testimonial.php:266
+msgid "Vertical Align"
+msgstr ""
+
+#: widgets/testimonial.php:427
+msgid "Video Box"
+msgstr ""
+
+#: widgets/testimonial.php:111
+msgid "Video On/Off"
+msgstr ""
+
+#: widgets/icon.php:125 widgets/heading.php:208
+msgid "View"
+msgstr ""
+
+#: widgets/dummy-widget/job-list.php:113
+msgid "View All Opening"
+msgstr ""
+
+#: inc/custom-post-types.php:105
+msgid "View Footer"
+msgstr ""
+
+#: inc/custom-post-types.php:67
+msgid "View Header"
+msgstr ""
+
+#: inc/custom-post-types.php:244
+msgid "View Member"
+msgstr ""
+
+#: inc/custom-post-types.php:338
+msgid "View Project"
+msgstr ""
+
+#: inc/custom-post-types.php:149
+msgid "View Service"
+msgstr ""
+
+#: inc/custom-post-types.php:428
+msgid "View Testimonial"
+msgstr ""
+
+#: widgets/contact-form.php:388
+msgid "Width"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:219
+msgid "Yearly  Price"
+msgstr ""
+
+#: widgets/dummy-widget/pricing-table.php:230
+msgid "Yearly Price Duration text"
+msgstr ""
+
+#: widgets/btn.php:103 widgets/btn.php:507 widgets/heading.php:299
+#: widgets/dummy-widget/product-categories.php:123
+#: widgets/dummy-widget/products.php:137 widgets/dummy-widget/page-title.php:99
+msgid "Yes"
+msgstr ""
+
+#: widgets/teams.php:147 widgets/dummy-widget/pricing-table.php:138
+#: widgets/dummy-widget/team-loop.php:125
+msgid "yes"
+msgstr ""
+
+#: widgets/btn.php:101
+msgid "Youtube Video Popup"
+msgstr ""

@@ -1,0 +1,1228 @@
+/* Main menu  */
+.mas-addons-main-menu-wrap.menu-align-end {
+    justify-content: flex-end;
+}
+
+.mas-addons-main-menu-wrap.menu-align-center {
+    justify-content: center;
+}
+
+.mas-addons-main-menu-wrap.menu-align-start {
+    justify-content: flex-start;
+}
+
+/* Mas btn */
+a.mas-addons-btn,
+.mas-addons-btn {
+    color: var(--accent-color);
+    letter-spacing: -0.53px;
+    line-height: 25px;
+    font-size: 17px;
+    padding-bottom: 5px;
+    position: relative;
+    display: inline-flex;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+a.mas-addons-btn:hover {
+    /* opacity: .8; */
+}
+
+a.mas-addons-btn.btn-type-boxed {
+    background-color: var(--accent-color);
+    color: #fff;
+    letter-spacing: -0.53px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 20px 40px 15px;
+    border-radius: 0px;
+    display: inline-flex;
+    border-color: transparent;
+    align-items: center;
+}
+
+.elementor-image-box-img {
+    transition: .4s;
+}
+
+.elementor-widget-mas-addons-form .mas-addons-contact-from button[type=submit]:after,
+.mas-addons-btn:not(.disable-default-hover-yes):after {
+    position: absolute;
+    width: 158%;
+    right: 100%;
+    height: 3px;
+    background: #fff;
+    content: "";
+    border-radius: 0px;
+    top: 0;
+    z-index: -1;
+    transform: rotate(50deg);
+    transition: 0.4s linear;
+}
+
+.elementor-widget-mas-addons-form .mas-addons-contact-from button[type=submit],
+.mas-addons-btn {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.elementor-widget-mas-addons-form .mas-addons-contact-from button[type=submit]:hover:after,
+.mas-addons-btn:hover:after {
+    visibility: visible;
+    opacity: 0;
+    height: 474%;
+    right: -90px;
+    top: -83px;
+}
+
+.btn-icon,
+.btn-icon * {
+    transition: .3s;
+}
+
+.elementor-widget-mas-addons-form .mas-addons-contact-from button[type=submit] svg {
+    width: 16px;
+    margin-right: 15px;
+}
+
+/* mas-addons feature box  */
+.mas-addons-feature-box-item {
+    transition: .4s;
+}
+
+.mas-addons-feature-box-item .icon-background-yes .mas-addons-feature-icon {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    background-color: var(--accent-color);
+    border-radius: 0px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.mas-addons-feature-box-item .icon-background-yes .mas-addons-feature-icon svg {
+    width: 35px;
+}
+
+span.mas-addons-feature-icon.icon-type-image img {
+    object-fit: cover;
+}
+
+.mas-addons-feature-icon-wrap {
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mas-addons-feature-title {
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+
+.mas-addons-feature-content p {
+    margin-bottom: 0;
+}
+
+.mas-addons-feature-box-item.mas-addons-icon-position-left {
+    display: flex;
+    text-align: right;
+}
+
+.mas-addons-feature-box-item.mas-addons-icon-position-right {
+    display: flex;
+    text-align: left;
+    flex-direction: row-reverse;
+}
+
+.mas-addons-feature-box-item.mas-addons-feature-icon-center {
+    text-align: center;
+}
+
+.mas-addons-feature-box-item.mas-addons-feature-icon-left {
+    text-align: right;
+}
+
+.mas-addons-feature-box-item.mas-addons-feature-icon-left .mas-addons-feature-icon-wrap {
+    justify-content: flex-start;
+}
+
+.mas-addons-feature-box-item.mas-addons-feature-icon-right .mas-addons-feature-icon-wrap {
+    justify-content: flex-end;
+}
+
+.mas-addons-feature-box-item.mas-addons-feature-icon-right {
+    text-align: left;
+}
+
+.mas-addons-feature-icon-wrap i,
+.mas-addons-feature-icon-wrap svg,
+.mas-addons-feature-icon {
+    transition: .3s ease-in-out;
+    ;
+}
+
+.mas-addons-feature-box-item .icon-background-no .mas-addons-feature-icon svg {
+    MAX-HEIGHT: 118PX;
+}
+
+.mas-addons-feature-box-item .mas-addons-feature-icon i {
+    font-size: 25px;
+}
+
+.mas-addons-feature-box-number {
+    font-size: 22px;
+    letter-spacing: -0.73px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.mas-addons-feature-box-number span {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, .16);
+}
+
+/* mas-addons inline icon box */
+.mas-addons-inline-icon-item {
+    display: flex;
+}
+
+.mas-addons-inline-icon-box-wrap .mas-addons-inline-icon-box-icon {
+    width: 57px;
+    height: 57px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mas-addons-inline-icon-box-wrap {
+    margin-left: 20px;
+    margin-top: 4px;
+}
+
+h4.mas-addons-inline-icon-box-title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: var(--heading-color);
+    margin-bottom: 10px;
+}
+
+span.mas-addons-inline-icon-box-icon,
+span.mas-addons-inline-icon-box-icon svg,
+span.mas-addons-inline-icon-box-icon i {
+    transition: .3s ease-in-out;
+}
+
+.mas-addons-inline-icon-box-content p {
+    margin-bottom: 0;
+}
+
+
+/* team card  */
+.mas-addons-team-item .member-image img {
+    object-fit: cover;
+    width: 100%;
+    height: 333px;
+    border-radius: 6px;
+}
+
+.mas-addons-team-item .member-name {
+    font-size: 21px;
+    letter-spacing: -0.5px;
+    margin-bottom: 7px;
+    color: var(--heading-color);
+}
+
+.mas-addons-team-item span.team-position {
+    color: var(--text-color);
+    letter-spacing: -0.2px;
+}
+
+.team-apply-card {
+    height: 333px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 25px;
+}
+
+.team-apply-card h4 {
+    font-size: 24px;
+    line-height: 1.4em;
+    letter-spacing: -0.5px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.team-apply-card a {
+    font-size: 21px;
+    letter-spacing: -1.2px;
+    color: var(--accent-color);
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    font-weight: 700;
+}
+
+.team-apply-card a i {
+    margin-right: 15px;
+}
+
+.mas-addons-team-item {
+    margin-bottom: 61px;
+}
+
+.mas-addons-team-item {
+    display: block;
+}
+
+.team-style-2 a.mas-addons-team-item {
+    display: flex;
+}
+
+/* jquery datepicker  */
+.ui-datepicker .ui-datepicker-header .ui-datepicker-prev-hover .ui-icon,
+.ui-datepicker .ui-datepicker-header .ui-datepicker-next.ui-datepicker-next-hover .ui-icon {
+    color: var(--accent-color) !important;
+}
+
+.ui-datepicker .ui-datepicker-header .ui-icon {
+    font-size: 14px !important;
+    transition: .4s;
+    top: 50%;
+    transform: translatey(-4px);
+}
+
+div#ui-datepicker-div {
+    border: blanchedalmond;
+    width: 239px;
+    border-radius: 0px;
+    overflow: hidden;
+    padding: 0 10px;
+}
+
+.ui-datepicker-header.ui-widget-header {
+    background-color: #EFF0F4 !important;
+    border-bottom: none !important;
+}
+
+td.ui-datepicker-days-cell-over.ui-datepicker-today,
+td.ui-datepicker-days-cell-over.ui-datepicker-today a {
+    background-color: #EFF0F4 !important;
+}
+
+td.ui-datepicker-days-cell-over.ui-datepicker-today a.ui-state-highlight {
+    border: none;
+}
+
+td a.ui-state-default {
+    font-size: 11px;
+}
+
+a.ui-state-default.ui-state-hover {
+    background-color: transparent !important;
+}
+
+.ui-datepicker-calendar tbody td:hover {
+    background: #EFF0F4;
+}
+
+.ui-datepicker th {
+    font-size: 12px;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    font-size: 12px;
+}
+
+.ui-datepicker .ui-datepicker-header .ui-icon:before {
+    margin-bottom: 6px;
+    display: block;
+}
+
+.ui-datepicker table {
+    margin-bottom: 0 !important;
+    border-top: none !important;
+}
+
+.ui-datepicker .ui-datepicker-header {
+    border-radius: 0px !important;
+    overflow: hidden;
+    border: 0px !important;
+}
+
+table.ui-datepicker-calendar tr:first-child {
+    border-top: none !important;
+}
+
+.ui-widget-content tr {
+    height: 35px !important;
+}
+
+.elementor-counter .elementor-counter-number-prefix,
+.elementor-counter .elementor-counter-number-suffix {
+    flex-grow: unset;
+}
+
+.subscribe-form.mas-addons-home-8-subscribe.btn-red button[type=submit] {
+    background-color: #f74d4d;
+}
+
+
+/* align css  */
+.content-align-right {
+    text-align: left;
+}
+
+.content-align-center {
+    text-align: center;
+}
+
+.content-align-left {
+    text-align: right;
+}
+
+
+.content-align-right {
+    text-align: left;
+}
+
+.content-align-center {
+    text-align: center;
+}
+
+.content-align-left {
+    text-align: right;
+}
+
+
+/* mas-addons services  */
+.mas-addons-service-widget-item .service-thumbnail span.image-shape {
+    width: 51px;
+    height: 50px;
+    background-color: #fee444;
+    border-radius: 50%;
+    position: absolute;
+    right: 15px;
+    top: 13px;
+    z-index: -1;
+}
+
+.mas-addons-service-widget-item .service-thumbnail img {
+    z-index: 1;
+    position: relative;
+}
+
+.mas-addons-service-widget-item .service-thumbnail {
+    position: relative;
+    z-index: 1;
+}
+
+.mas-addons-service-widget-item .service-thumbnail-wrapper *,
+.mas-addons-service-widget-item .service-content * {
+    transition: .3s;
+}
+
+.mas-addons-service-widget-item {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    height: 100%;
+}
+
+.mas-addons-service-widget-item:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+    transform: translate(96%, 2%);
+    border-radius: 50%;
+    transition: .4s linear;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.mas-addons-service-widget-item:hover:after {
+    border-radius: 0;
+    transform: translate(22%, -19%);
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.mas-addons-service-widget-item h3.service-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mas-addons-service-widget-item .service-top-title a {
+    display: block;
+}
+
+/* heading css  */
+.mas-addons-heading-title.show-line-yes:after {
+    content: "";
+    width: 100%;
+    background-color: #fee444;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 7px;
+    z-index: -1;
+}
+
+.mas-addons-heading-title.show-line-yes {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+}
+
+
+/* blog css  */
+.mas-addons-post-widget-item h3.post-title {
+    font-size: 21px;
+    line-height: 1.4285;
+    font-weight: 700;
+}
+
+.mas-addons-post-widget-item .category-list {
+    color: var(--accent-color);
+    font-size: 11px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 3px;
+    text-align: right;
+    text-transform: uppercase;
+    line-height: 2;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.mas-addons-post-widget-item .post-link {
+    display: block;
+}
+
+.mas-addons-post-widget-item .post-thumbnail-wrapper img {
+    width: 100%;
+    object-fit: cover;
+    height:100%;
+}
+
+.mas-addons-post-widget-item .post-content-wrap {
+    padding-top: 26px;
+}
+
+
+.mas-addons-post-widget-item .post-thumbnail {
+    position: relative;
+    overflow: hidden;
+}
+
+.mas-addons-post-widget-item .post-thumbnail .image-icon {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: var(--accent-color-2);
+    color: var(--heading-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: .4s;
+}
+
+.mas-addons-post-widget-item:hover .post-thumbnail .image-icon {
+    transform: scale(1.4);
+}
+
+.mas-addons-post-widget-item.psot-style-list {
+    display: flex;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.mas-addons-post-widget-item.psot-style-list .post-thumbnail-wrapper .post-link {
+    height: 100%;
+}
+
+.mas-addons-post-widget-item.psot-style-list .post-thumbnail-wrapper .post-thumbnail {
+    height: 100%;
+}
+
+.mas-addons-post-widget-item.psot-style-list .post-thumbnail-wrapper img {
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+.mas-addons-post-widget-item.psot-style-list .post-thumbnail-wrapper {
+    width: 57%;
+    padding-left: 30px;
+}
+
+.mas-addons-post-widget-item.psot-style-list .post-content-wrap {
+    padding-top: 0;
+}
+
+/* navigation style  */
+.mas-addons-addon-post-navigation .nav-links a {
+    /* Style for "PREV PROJE" */
+    color: var(--heading-color);
+    font-family: Manrope;
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid var(--heading-color);
+    padding: 24px 31px;
+    transition: .4s;
+    position: relative;
+    z-index: 1;
+    line-height: 1;
+}
+
+.mas-addons-addon-post-navigation .nav-links a:hover {
+    border-color: var(--accent-color-2);
+}
+
+.mas-addons-addon-post-navigation .nav-links a:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: var(--accent-color-2);
+    right: 0;
+    top: 0;
+    z-index: -1;
+    transition: .4s;
+    transform: scalex(0);
+    transform-origin: right;
+}
+
+.mas-addons-addon-post-navigation .nav-links a:hover:after {
+    transform: scale(1);
+}
+
+.mas-addons-addon-post-navigation .nav-links a .nav-icon svg {
+    width: 17px;
+}
+
+.mas-addons-addon-post-navigation .nav-links a .nav-icon i {
+    font-size: 17px;
+}
+
+.mas-addons-addon-post-navigation .nav-links .nav-previous a .nav-icon {
+    margin-left: 14px;
+}
+
+.mas-addons-addon-post-navigation .nav-links .nav-next a .nav-icon {
+    margin-right: 14px;
+}
+
+
+/* back to tob scroll  */
+.mas-addons-back-to-top-wraper .mas-addons-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    bottom: 0;
+    cursor: pointer;
+    position: fixed;
+    transition: all .4s;
+    opacity: 0;
+    transform: translatey(20px);
+}
+
+.mas-addons-back-to-top-wraper .mas-addons-icon.sticky-active {
+    opacity: 1;
+    visibility: visible;
+    transition: all .4s linear;
+    z-index: 111;
+    transform: translatey(0);
+}
+
+.elementor-editor-active .mas-addons-back-to-top-wraper .mas-addons-icon {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* portfolio css  */
+.mas-addons-portfolio-item {
+    position: relative;
+    overflow: hidden;
+}
+
+.mas-addons-portfolio-item img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    width: 100%;
+    object-fit: cover;
+    /* height: 100%; */
+    margin-bottom: 0 !important;
+}
+
+a.mas-addons-portfolio-content.content-postion-on-image {
+    position: absolute;
+    bottom: 15px;
+    background-color: rgba(255, 255, 255, 0.85);
+    right: 15px;
+    left: 15px;
+    padding: 20px 30px;
+    border-radius: 8px;
+    color: #161c2d;
+    transition: .4s;
+    transform: translatex(10%);
+    opacity: 0;
+}
+
+a.mas-addons-portfolio-content .mas-addons-pf-category {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.63px;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+    color: rgba(22, 28, 45, .5);
+}
+
+h3.mas-addons-portfolio-title {
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    line-height: 32px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mas-addons-portfolio-item:hover a.mas-addons-portfolio-content.content-postion-on-image {
+    opacity: 1;
+    transform: translate(0);
+}
+
+ul.pf-isotope-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+ul.pf-isotope-nav li {
+    /* Style for "All works" */
+    color: #6f727b;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.63px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 55px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+ul.pf-isotope-nav li.active,
+ul.pf-isotope-nav li:hover {
+    color: var(--accent-color);
+}
+
+.mas-addons-portfolio-item .mas-addons-portfolio-image {
+    /* height: 100%; */
+}
+
+a.mas-addons-portfolio-content.content-postion-below-image {
+    display: block;
+    position: relative;
+    padding: 40px 30px;
+}
+
+.mas-addons-pf-loadmore-btn {
+    cursor: pointer;
+    font-size: 13px;
+    color: #030303;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 1px solid;
+    letter-spacing: 1.63px;
+    border: 1px solid rgba(3, 3, 3, 0.3);
+}
+
+.mas-addons-hover-rotate .mas-addons-portfolio-item:hover img {
+    transform: scale(0.8) rotate(6deg);
+    border-radius: 20px;
+    box-shadow: 0 32px 74px rgba(68, 77, 136, 0.2);
+}
+
+.mas-addons-hover-rotate .mas-addons-portfolio-item img {
+    transition: .4s;
+}
+
+a.mas-addons-portfolio-content.content-postion-disabled {
+    display: none;
+}
+
+
+/*sakib*/
+
+
+.mas-addons--testimonial-thumb {
+    position: relative;
+}
+
+
+.mas-addons-icon-videobox {
+    bottom: 37px;
+    background: #FEE444;
+    width: 115px;
+    height: 115px;
+    text-align: center;
+    position: absolute;
+    right: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mas-addons--testimonial-thumb img {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.mas-addons--testimonial-thumb .owl-carousel .owl-item img {
+    height: 100% !important;
+}
+
+.mas-addons--tc p {
+    font-size: 28px;
+    line-height: 46px;
+}
+
+.t--name {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 4px;
+}
+
+.t-postion {
+    opacity: 0.7;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+/*.mas-addons--testimonial .owl-prev, .mas-addons--testimonial .owl-next {
+    position: absolute;
+    right: 30px;
+    bottom: -25px;
+}*/
+
+
+
+/*.mas-addons--testimonial .owl-prev {
+    right: 100px;
+}*/
+
+.mas-addons--testimonial .owl-nav {
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+}
+
+.mas-addons-contact-from button i {
+    margin-right: 20px;
+}
+
+.mas-addons--testimonial .owl-nav i {
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+.mas-addons--testimonial .owl-nav .owl-prev {
+    margin-left: 60px;
+}
+
+.mas-addons--testimonial .owl-nav i:hover {
+    color: #FEE444;
+}
+
+
+/* timeline css  */
+.mas-addons-timeline-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 80px;
+    position: relative;
+}
+
+.mas-addons-timeline__card {
+    position: relative;
+    z-index: 1;
+    min-width: 175px;
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.mas-addons-timeline__card-date {
+    /* Style for "1992" */
+    color: var(--text-color);
+    font-size: 11px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 3px;
+    line-height: 22px;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.mas-addons-timeline__card-title {
+    /* Style for "Company la" */
+    color: var(--heading-color);
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: right;
+}
+
+.mas-addons-timeline__card:nth-child(2n),
+.mas-addons-timeline__card.timeline-position-2 {
+    transform: translatey(calc(100% + 80px));
+    align-items: flex-start;
+}
+
+.mas-addons-timeline-wrapper:after {
+    content: "";
+    width: 100%;
+    height: 3px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 40px;
+    opacity: .1;
+    transform: translatey(50%);
+}
+
+.mas-addons-timeline__card:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    background-color: var(--accent-color-2);
+    position: absolute;
+    bottom: -40px;
+    transform: translatey(50%) translatex(50%);
+    border-radius: 50%;
+    z-index: 1;
+    right: 50%;
+}
+
+.mas-addons-timeline__card:nth-child(2n):before,
+.mas-addons-timeline__card.timeline-position-2:before {
+    bottom: auto;
+    top: -40px;
+    transform: translatey(-50%) translatex(50%);
+}
+
+.mas-addons-timeline__card:after {
+    content: "";
+    width: 4px;
+    height: 20px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    transform: translatey(100%) translatex(50%);
+    right: 50%;
+}
+
+.mas-addons-timeline__card:nth-child(2n):after,
+.mas-addons-timeline__card.timeline-position-2:after {
+    bottom: auto;
+    top: 0;
+    transform: translatey(-100%) translatex(50%);
+}
+
+.mas-addons-timeline__card.timeline-position-1 {
+    transform: translate(0);
+}
+
+.mas-addons-timeline__card.timeline-position-1:before {
+    top: auto;
+    bottom: -40px;
+    transform: translatey(50%) translatex(50%);
+}
+
+.mas-addons-timeline__card.timeline-position-1:after {
+    top: auto;
+    bottom: 0;
+    transform: translatey(100%) translatex(50%);
+}
+
+.mas-addons-timeline-area {
+    height: 300px;
+}
+
+.mas-addons-timeline__card_inner {
+    padding: 15px 20px 20px;
+    background-color: #fff;
+}
+/* vertical menu css  */
+.mas-addons-vertical-menu-wrap ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.mas-addons-vertical-menu a {/* Style for "Chemical R" */
+    color: #171b24;
+    font-family: Manrope;
+    font-size: 21px;
+    font-weight: 700;
+    text-align: right;
+/* Text style for "Chemical R" */
+    font-style: normal;
+    letter-spacing: normal;
+    padding: 14px 0;
+    transition: .3s;
+    display: block;
+}
+
+.mas-addons-vertical-menu a:hover, .mas-addons-vertical-menu 
+li.current-menu-item > a {color: var(--accent-color);}
+
+
+/* mas-addons slider   */
+.mas-addons-rev-btn:hover img {margin-right: 15px;}
+
+.mas-addons-rev-btn img {
+    transition: .4s;
+    margin-right: 7px;;
+}
+
+/* responsive css  */
+@media only screen and (min-width: 1400px) {
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1320px;
+    }
+}
+
+
+@media only screen and (min-width:1025px) and (max-width:1200px) {
+    .mas-addons-pricing-area .container-fluid {
+        padding: 0 100px;
+    }
+
+    .mas-addons-pricing-item-wrap {
+        margin-bottom: 30px;
+    }
+}
+
+
+
+@media only screen and (max-width:991px) {
+
+    .mas-addons-pricing-item-wrap {
+        margin-bottom: 30px;
+    }
+
+    .mas-addons-job-search-form input:not([type=submit]):not([type=radio]):not([type=checkbox]),
+    .mas-addons-job-search-form .nice-select,
+    .mas-addons-job-search-form select {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .mas-addons-job-search-form {
+        width: auto;
+    }
+
+    .mas-addons-job-search-form button[type=submit] {
+        width: 100%;
+    }
+
+    .mas-addons-cowork-search-form form {
+        height: auto;
+        padding: 20px;
+    }
+
+    .mas-addons-cowork-search-form form .cowork-location,
+    .mas-addons-cowork-search-form form input#coworking-date {
+        width: 100%;
+        margin: 0 0 9px;
+        border-left: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .mas-addons-cowork-search-form .mas-addons-date-field {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 7px;
+    }
+
+    .mas-addons-cowork-search-form form input#coworking-date {
+        padding: 9px 30px;
+    }
+
+    .mas-addons-cowork-search-form .mas-addons-date-field i {
+        transform: translatey(calc(-50% - 6px));
+    }
+
+
+
+}
+
+@media only screen and (max-width:991px) and (min-width:768px) {
+    .mas-addons-testimonial-stories .swiper-navigation {
+        margin-top: 0;
+    }
+
+    .content-align-tablet-right {
+        text-align: left;
+    }
+
+    .content-align-tablet-center {
+        text-align: center;
+    }
+
+    .content-align-tablet-left {
+        text-align: right;
+    }
+
+    /* Main menu  */
+    .mas-addons-main-menu-wrap.menu-align-tablet-end {
+        justify-content: flex-end;
+    }
+
+    .mas-addons-main-menu-wrap.menu-align-tablet-center {
+        justify-content: center;
+    }
+
+    .mas-addons-main-menu-wrap.menu-align-tablet-start {
+        justify-content: flex-start;
+    }
+
+
+
+}
+
+@media only screen and (max-width:767px) {
+    .content-align-mobile-right {
+        text-align: left;
+    }
+
+    .content-align-mobile-center {
+        text-align: center;
+    }
+
+    .content-align-mobile-left {
+        text-align: right;
+    }
+
+    /* Main menu  */
+    .mas-addons-main-menu-wrap.menu-align-mobile-end {
+        justify-content: flex-end;
+    }
+
+    .mas-addons-main-menu-wrap.menu-align-mobile-center {
+        justify-content: center;
+    }
+
+    .mas-addons-main-menu-wrap.menu-align-mobile-start {
+        justify-content: flex-start;
+    }
+
+
+    .nice-select ul.list {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .mas-addons-addon-post-navigation .nav-links {
+        display: block;
+    }
+
+    .mas-addons-addon-post-navigation .nav-links .nav-previous {
+        margin-bottom: 10px;
+    }
+
+    .mas-addons-timeline__card,
+    .mas-addons-timeline__card:nth-child(2n),
+    .mas-addons-timeline__card.timeline-position-2 {
+        transform: translate(0);
+        min-width: 100%;
+        max-width: 100%;
+        position: static;
+        margin-bottom: 46px;
+    }
+
+    .mas-addons-timeline-wrapper {
+        flex-wrap: wrap;
+        padding-bottom: 0;
+        padding: 0 20px;
+    }
+
+    .mas-addons-timeline-area {
+        height: auto;
+    }
+
+    /* 
+    .mas-addons-timeline__card:nth-child(2n):before, .mas-addons-timeline__card.timeline-position-2:before {
+        top: auto;
+        bottom: -40px;
+        transform: translatey(50%) translatex(-50%);
+    }
+    
+    .mas-addons-timeline__card:nth-child(2n):after, .mas-addons-timeline__card.timeline-position-2:after {
+        top: auto;
+        bottom: 0;
+        transform: translatey(100%) translatex(-50%);
+    } */
+
+    .mas-addons-timeline__card:after {
+        display: none;
+    }
+
+    .mas-addons-timeline__card:before {
+        display: none;
+    }
+
+    .mas-addons-timeline__card:last-child {
+        margin-bottom: 0;
+    }
+
+    .mas-addons-timeline-wrapper:after {
+        height: 100%;
+        width: 3px;
+        right: 50%;
+        transform: translatex(50%) translatey(0);
+        bottom: 0;
+    }
+
+    .mas-addons-timeline__card_inner {
+        width: 100%;
+    }
+}
