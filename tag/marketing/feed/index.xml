@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing &#8211; SyntyTech</title>
+	<atom:link href="https://cloudinteam.github.io/synty-tech/tag/marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cloudinteam.github.io/synty-tech</link>
+	<description></description>
+	<lastBuildDate>Mon, 30 Jan 2023 11:57:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://cloudinteam.github.io/synty-tech/wp-content/uploads/2023/01/favicon.png</url>
+	<title>Marketing &#8211; SyntyTech</title>
+	<link>https://cloudinteam.github.io/synty-tech</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Audience survey win a $360</title>
+		<link>https://cloudinteam.github.io/synty-tech/2022/02/12/audience-survey-win-a-360/</link>
+					<comments>https://cloudinteam.github.io/synty-tech/2022/02/12/audience-survey-win-a-360/#respond</comments>
+		
+		<dc:creator><![CDATA[snty-admin]]></dc:creator>
+		<pubDate>Sat, 12 Feb 2022 13:40:17 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">https://mthemeus.com/demos/wp/xmoze/?p=2707</guid>
+
+					<description><![CDATA[The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track...]]></description>
+										<content:encoded><![CDATA[
+<h4>The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track the volatility from cryptocurrency option prices and the overall crypto market.</h4>
+
+
+
+<p>For those who are not familiar with the term, the VIX is an index that measures volatility in the stock market based on the implied volatility of S&amp;P 500 Index options; it’s also referred to as the “Market Fear Index.”</p>
+
+
+
+<p>In a similar way, the CVI helps users track and trade the 30-day implied volatility of Ether (ETH) Bitcoin (BTC) by using the Black-Scholes options pricing model foster an index that fluctuates between 0 and 200. Black-Scholes is a pricing model used to determine the fair price or theoretical value for a call or a put option based on six variables volatility type of optiont &amp; underlying stock pricing and risk-free rate.</p>
+
+
+
+<h4>What Does the Platform Hold for the Future?</h4>
+
+
+
+<p>Along with the recent migration from USDT to USDC and a recent integration with investing.com, the founders of CVI have announced the implementation of new and exciting features for the protocoler.</p>
+
+
+
+<p>The first, is the launch of volatility tokens via CVOL (Crypto vola &amp; ETHVOL (Ethereum Volatility token). These tokens can be understood as being a wrapper for opening a long position on CVI and a tradable on Ethereum compatible DEXs. The tokens maintain their peg to the value of the underlying following a rebase mechanism with a similar architecture to that of tokens like Ampleforth. The volatility tokens can be used to benefit from arbitrage trading strategies on other compatible DEXs.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“Learning how cryptocurrency works is like learning a new language. It is incredibly difficult at the beginning, but once it clicks it will stick with you forever.”</p></blockquote>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-full"><img decoding="async" width="398" height="280" data-id="3526"  src="https://cloudinteam.github.io/synty-tech/wp-content/uploads/2022/02/blog-detail-02-1.png" alt="" class="wp-image-3526"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="398" height="280" data-id="3525"  src="https://cloudinteam.github.io/synty-tech/wp-content/uploads/2022/02/blog-detail-01.png" alt="" class="wp-image-3525"/></figure>
+</figure>
+
+
+
+<h4>Key Takeaways</h4>
+
+
+
+<ul><li>The Index allows DeFi users to either hedge against or profit from volatility in the crypto market.</li><li>The index functions as a crypto version of the VIX (The S&amp;P 500 Volatility Index), a real-time for market index representing the market&#8217;s expectations for volatility forover the coming 30 days.</li><li>The index functions as a crypto version of the VIX (The S&amp;P 500 Volatility Index), a real-time for market index representing the market&#8217;s expectations for volatility forover the coming 30 days.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cloudinteam.github.io/synty-tech/2022/02/12/audience-survey-win-a-360/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
