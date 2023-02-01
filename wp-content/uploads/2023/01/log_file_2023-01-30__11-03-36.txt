@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Digital Agency were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/synty-tech
+Data file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/digital-agency.xml
+Widget file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/widget.wie
+Customizer file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/customizer.dat
+Redux files:
+xmoze -> C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/theme-options.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+WooCommerce Widgets : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: xmoze finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

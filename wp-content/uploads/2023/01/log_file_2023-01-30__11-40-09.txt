@@ -1,0 +1,177 @@
+
+---Downloaded files---
+The import files for: Initial Setup were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/synty-tech
+Data file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/initial-setup.xml
+Widget file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/widget.wie
+Customizer file = C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/customizer.dat
+Redux files:
+xmoze -> C:\xampp\htdocs\synty-tech/wp-content/themes/xmoze/inc/demo-contents/theme-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "service-thumb-01" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+WooCommerce Widgets : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: xmoze finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
